@@ -1,8 +1,8 @@
 # Awesome OPC UA
 A curated list of awesome OPC UA resources. Inspired by aweome-... stuff.
 
-- [Awesome OPC UA] (#awesome-opcua)
-    - [OPC UA Standards Documents] (#opc_ua_standards_documents)
+- [Awesome OPC UA](#awesome-opcua)
+    - [OPC UA Standards Documents](#opc_ua_standards_documents)
 
 
 ## OPC UA Standards Documents
