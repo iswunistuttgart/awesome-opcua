@@ -9,8 +9,8 @@ A curated list of awesome OPC UA resources. Inspired by aweome-... stuff.
     - [Software](#software)
         - [SDKs](#sdks)
         - [Test Clients](#test-clients)
-        - [Modelling Tools](#modelling tools)
-        - [Online Tools](#online tools)
+        - [Modelling Tools](#modelling-tools)
+        - [Online Tools](#online-tools)
 
 
 ## OPC UA Standards Documents
