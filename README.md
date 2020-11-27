@@ -34,6 +34,7 @@ A curated list of awesome OPC UA resources. Inspired by aweome-... stuff.
 * [List of Cllaborations Groups ](https://docs.google.com/spreadsheets/d/10SOpad6uu7JA5ZSpccVyqaqkyhYBiIXqNus28-1cJtU/edit#gid=1248333029) - Overview of the different standardization activities
 * [https://opcua.rocks/](https://opcua.rocks/) - bog about OPC UA 
 * [https://sandervandevelde.wordpress.com/](https://sandervandevelde.wordpress.com/) -  IoT Blog (use also OPC UA in some projects)
+* [OPCUA CS Graph](https://iswunistuttgart.github.io/opcua-cs-graph/) - Graph that shows the dependencies zwischen Companion Specification 
 
 ### Books
 *Books about OPC UA.*
