@@ -17,7 +17,7 @@ See the [official OPC Foundation website](https://opcfoundation.org/about/opc-te
   - [Java](#java)
   - [MATLAB](#matlab)
   - [Rust](#rust)
-  - [C#](#c-1)
+  - [C#](#c-2)
   - [Go](#go)
 - [Tools](#tools) 
 - [Community](#community)
