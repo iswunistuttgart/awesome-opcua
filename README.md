@@ -22,6 +22,9 @@ See the [official OPC Foundation website](https://opcfoundation.org/about/opc-te
 - [Tools](#tools) 
 - [Community](#community)
 - [Related Lists](#related-lists)
+- [Tutorials](#tutorials)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Libraries
 
@@ -70,6 +73,10 @@ See the [official OPC Foundation website](https://opcfoundation.org/about/opc-te
 
 - [open62541's List of Open Source OPC UA Implementations](https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations) - List of open source OPC UA implementations.
 - [Agile-IoT/awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
+
+## Tutorials 
+- [From modelling to execution – OPC UA Information Model Tutorial](https://opcua.rocks/from-modelling-to-execution-opc-ua-information-model-tutorial/) - Complete walkthrough from creating a custom OPC UA information model, compiling this model into an OPC UA `NodeSet2.xml` file, and then using the `open62541` OPC UA stack to create a running OPC UA server.
+- [Visualizing OPC UA Information Model using Graphviz](https://opcua.rocks/visualizing-opc-ua-information-model-using-graphviz/) - Tutorial on how to use Graphviz to generate visualization of OPC UA Information Models.
 
 ## Contribute
 
