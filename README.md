@@ -58,6 +58,7 @@ See the [official OPC Foundation website](https://opcfoundation.org/about/opc-te
 
 ## Tools 
 - [UaExpert](https://www.unified-automation.com/products/development-tools/uaexpert.html) - General purpose graphical test client supporting OPC UA features like DataAccess, Alarms & Conditions, Historical Access and calling of UA Methods. [Commercial]
+- [UA-ModelCompiler](https://github.com/OPCFoundation/UA-ModelCompiler) - Tool to convert OPC UA Information models in Model.xml format to NodeSet2.xml Format. [MIT]
 
 ## Community
 
