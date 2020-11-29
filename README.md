@@ -2,8 +2,8 @@
 
 > A curated list of Open Platform Communications Unified Architecture (OPC UA) libraries, tools and resources. 
 
-Functional Mock-up Interface (FMI) is a tool independent standard to support both model exchange and co-simulation of dynamic models.
-See the [official FMI website](http://fmi-standard.org/) for the official specification and more information about the FMI standard.
+Open Platform Communications Unified Architecture (OPC UA) is the data exchange standard for  safe, reliable, manufacturer- and platform-independent industrial communication. 
+For a brief introduction to OPC UA, check the [What is OPC? UA in a Minute](https://www.youtube.com/watch?v=-tDGzwsBokY).
 
 See the [official OPC Foundation website](https://opcfoundation.org/about/opc-technologies/opc-ua/) for the official specifications and more information about the OPC UA standard.
 
