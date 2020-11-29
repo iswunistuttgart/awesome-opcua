@@ -55,7 +55,7 @@ Compare implementations for OPC UA
 (German) Description of OPC UA Design decisions in OPC UA for Weighing Technology and OPC UA for Machine Tools
 
 
-[F. Kretschmer, C. Dripke, and A. Wohlfeld “Der Trend zur branchenorienterten OPC UA Companion Specification und deren Herausforderungen,” Marburg, 2018]  (https://www.der-maschinenbau.de/markt-trends-technik/der-trend-und-seine-herausforderungen/)
+[F. Kretschmer, C. Dripke, and A. Wohlfeld “Der Trend zur branchenorienterten OPC UA Companion Specification und deren Herausforderungen,” Marburg, 2018](https://www.der-maschinenbau.de/markt-trends-technik/der-trend-und-seine-herausforderungen/)
 
 (German) Descriptes the Trends of OPC UA  Companion Specification 
 
