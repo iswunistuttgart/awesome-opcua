@@ -52,7 +52,12 @@ Compare implementations for OPC UA
 
 [S. Friedl, T. Heinemann, A. Lechler  "Designentscheidungen für OPC-UA-Informationsmodelle" *WT online 5-2020 , 2020, pp. 589-594](https://www.ingenieur.de/fachmedien/wt-werkstattstechnik/ausgaben-wt-werkstattstechnik-online/inhalte-der-online-ausgabe-5-2020/) 
 
-Description of OPC UA Design decisions in OPC UA for Weighing Technology and OPC UA for Machine Tools
+(German) Description of OPC UA Design decisions in OPC UA for Weighing Technology and OPC UA for Machine Tools
+
+
+[F. Kretschmer, C. Dripke, and A. Wohlfeld “Der Trend zur branchenorienterten OPC UA Companion Specification und deren Herausforderungen,” Marburg, 2018]  (https://www.der-maschinenbau.de/markt-trends-technik/der-trend-und-seine-herausforderungen/)
+
+(German) Descriptes the Trends of OPC UA  Companion Specification 
 
 
 
