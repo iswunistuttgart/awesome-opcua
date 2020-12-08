@@ -6,14 +6,15 @@ A curated list of awesome OPC UA resources. Inspired by awesome-... stuff.
   - [OPC UA Standards Documents](#opc-ua-standards-documents)
     - [Resources](#resources)
       - [Online Resources](#online-resources)
-        - [Books](#books)
-        - [Articles](#Articles)
+      - [Books](#books)
+      - [Articles](#Articles)
+      - [Videos](#Videos)
     - [Software](#software)
       - [SDKs](#sdks)
-        - [Test Clients](#test-clients)
-        - [Modelling Tools](#modelling-tools)
-        - [Online Tools](#online-tools)
-    - [SimulationServer](#SimulationServer)
+      - [Test Clients](#test-clients)
+      - [Modelling Tools](#modelling-tools)
+      - [Online Tools](#online-tools)
+      - [SimulationServer](#SimulationServer)
     - [Gateways  (OPC Classic)](#Gateways (OPC Classic))
 
 ## OPC UA Standards Documents
@@ -46,7 +47,6 @@ _Released OPC UA Specifications._
 
 - *Wolfgang Mahnke, Stefan-Helmut Leitner, Matthias Damm*, OPC Unified Architecture. *Springer; 2009*, ISBN: 978-3540688983.
 
--  
 
 ### Articles
 
@@ -65,6 +65,13 @@ Compare implementations for OPC UA
 [F. Kretschmer, C. Dripke, and A. Wohlfeld “Der Trend zur branchenorienterten OPC UA Companion Specification und deren Herausforderungen,” Marburg, 2018](https://www.der-maschinenbau.de/markt-trends-technik/der-trend-und-seine-herausforderungen/)
 
 (German) Descriptes the Trends of OPC UA  Companion Specification
+
+### Videos
+
+- [What is OPC? UA in a Minute](https://www.youtube.com/watch?v=-tDGzwsBokY)
+- [20200622 02 OPC UA Technology](https://www.youtube.com/watch?v=OQC_kVYisS8)  - 20 min Introduction into OPC UA (OPC UA Day 2020)
+- [OPC UA Security Deep Dive by Randy Armstrong (Chair of OPC UA Security Working Group), Dec 2020](https://www.youtube.com/watch?v=pa82WydVtPY)
+
 
 ## Software
 
