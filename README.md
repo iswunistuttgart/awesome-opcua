@@ -1,5 +1,5 @@
 # Awesome OPC UA
-A curated list of awesome OPC UA resources. Inspired by aweome-... stuff.
+A curated list of awesome OPC UA resources. Inspired by awesome-... stuff.
 
 - [Awesome OPC UA](#awesome-opcua)
     - [OPC UA Standards Documents](#opc-ua-standards-documents)
@@ -28,11 +28,11 @@ A curated list of awesome OPC UA resources. Inspired by aweome-... stuff.
 
 ### Online Resources
 *Information material available online.*
-
+* [OPC Foundation Online Reference](https://reference.opcfoundation.org/v104/)
 * [OPC Foundation UA Profile Reporting Visualization Tool](https://apps.opcfoundation.org/ProfileReporting/index.htm) - Overview of OPC UA Profiles.
 * [OPC Foundation UA Profile Reporting Visualization Tool with drafts](https://apps.opcfoundation.org/ProfileReporting/index.htm?All=true) - Same as above including (stable) drafts.
-* [List of Cllaborations Groups ](https://docs.google.com/spreadsheets/d/10SOpad6uu7JA5ZSpccVyqaqkyhYBiIXqNus28-1cJtU/edit#gid=1248333029) - Overview of the different standardization activities
-* [https://opcua.rocks/](https://opcua.rocks/) - bog about OPC UA 
+* [List of Collaborations Groups on Companion Specifications](https://docs.google.com/spreadsheets/d/10SOpad6uu7JA5ZSpccVyqaqkyhYBiIXqNus28-1cJtU/edit#gid=1248333029) - Overview of the different standardization activities
+* [https://opcua.rocks/](https://opcua.rocks/) - blog about OPC UA 
 * [https://sandervandevelde.wordpress.com/](https://sandervandevelde.wordpress.com/) -  IoT Blog (use also OPC UA in some projects)
 * [OPCUA CS Graph](https://iswunistuttgart.github.io/opcua-cs-graph/) - Graph that shows the dependencies zwischen Companion Specification 
 
@@ -92,7 +92,7 @@ Compare implementations for OPC UA
 - [Träger](https://opcua.traeger.de/) - Server/Client proprietary
 - [dataFeed OPC UA](https://data-intelligence.softing.com/de/produkte/datafeed-opc-sdks/datafeed-opc-ua-net-standard-sdks/) - Server/Client proprietary (Softing)
 - [OPC UA .NET SDK](https://www.prosysopc.com/products/opc-ua-dotnet-sdk/) - Server/Client proprietary (Prosys)
-- [Unified Automation .NET SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary 
+- [Unified Automation .NET SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary
 
 #### Java
 
@@ -103,15 +103,12 @@ Compare implementations for OPC UA
 #### Python
 
 - [uaf](https://github.com/uaf/uaf) - Client (wrapper over proprietary sdk)
-
 - [Python FreeOpcUa](https://github.com/FreeOpcUa/python-opcua)  - Server /Client
 
 #### JavaScript / TypeScript
 
 - [node-opcua](http://node-opcua.github.io/) - Server/Client
-
 - [node-red-contrib-opcua](https://flows.nodered.org/node/node-red-contrib-opcua) - Node-Red Plugin for OPC UA (Server/Client)
-
 - [ opcua](https://github.com/HBM/opcua) - only Client
 
 #### Rust
@@ -125,7 +122,6 @@ Compare implementations for OPC UA
 #### Delphi
 
 + [Sentrol SDK for Delphi](https://www.prosysopc.com/products/opc-ua-sentrol-sdk/) - Server/Client proprietary (Prosys)
-
 * [Unified Automation Delphi SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary 
 
 ### Test Clients
@@ -140,7 +136,7 @@ Compare implementations for OPC UA
 ### Modelling Tools
 *Tools to create OPC UA Information Models.*
 
-* [UAModeller](https://www.unified-automation.com/products/development-tools/uamodeler.html) - Modeling Tool by Unified Automation.
+* [UAModeler](https://www.unified-automation.com/products/development-tools/uamodeler.html) - Modeling Tool by Unified Automation.
 * [OPC UA Modeler](https://www.prosysopc.com/products/opc-ua-modeler/) - Modeling Tool by Prosys
 * [SiOME](https://support.industry.siemens.com/cs/document/109755133/siemens-opc-ua-modeling-editor-%28siome%29-for-implementing-opc-ua-companion-specifications?dti=0&lc=en-WW) - Modeling Tool by Siemens
 * 
@@ -150,14 +146,15 @@ Compare implementations for OPC UA
 
 * [OPC UA NodeSet Validator](https://apps.opcfoundation.org/NodeSetValidator/) - Check NodeSet XML Files against Word Documents following the OPC Foundation Specification Template.
 
-# Server Simulations
+## Server Simulations
 
 *Implementations of Example, Simulation and SampleServer that are running on the Internet or can be run local*
 
 - [OPC UA Player](https://github.com/MileBuurmeijer/OPCUA-Player) -  supports replaying OPC UA data from a data file
 - [OPC UA Simulation Server](https://www.prosysopc.com/products/opc-ua-simulation-server/) - free (professional Edition can import own information model)
-- [ opc.tcp://opcua.rocks:4840]( opc.tcp://opcua.rocks:4840) - Demo Server based on open62541                
-- [opc.tcp://milo.digitalpetri.com:62541/milo](opc.tcp://milo.digitalpetri.com:62541/milo) - Demo Server based on eclipse milo                
+- `opc.tcp://opcua.rocks:4840` - Demo Server based on open62541
+- `opc.tcp://opcua.umati.app:4840`- [umati demo Server](https://github.com/umati/Sample-Server) based on open62541, implementing different umati endorse companion specifications   
+- `opc.tcp://milo.digitalpetri.com:62541/milo` - [Demo Server](https://github.com/eclipse/milo#public-demo-server) based on eclipse milo                
 - [List of publicly availavle OPC UA Servers and Clients](https://github.com/node-opcua/node-opcua/wiki/publicly-available-OPC-UA-Servers-and-Clients)
 
 # Gateways (OPC Classic)
