@@ -48,7 +48,7 @@ See the [official OPC Foundation website](https://opcfoundation.org/about/opc-te
 - [Eclipse Milo™](https://github.com/eclipse/milo) - Java open source implementation of OPC UA (IEC 62541).  [EPL-2.0]
 
 ### MATLAB
-- [OPC Toolbox](https://www.mathworks.com/help/opc/index.html) - MATLAB official toolbox that supports OPC UA. [Commercial]
+- [OPC Toolbox](https://www.mathworks.com/help/opc/index.html) - MATLAB official toolbox that supports OPC UA. See https://www.mathworks.com/discovery/opc-ua.html for more details. [Commercial]
 
 ### Rust
 - [locka99/opcua](https://github.com/locka99/opcua) - OPC UA server / client API implementation for Rust. [MPL-2.0]
@@ -77,6 +77,10 @@ See the [official OPC Foundation website](https://opcfoundation.org/about/opc-te
 ## Tutorials 
 - [From modelling to execution – OPC UA Information Model Tutorial](https://opcua.rocks/from-modelling-to-execution-opc-ua-information-model-tutorial/) - Complete walkthrough from creating a custom OPC UA information model, compiling this model into an OPC UA `NodeSet2.xml` file, and then using the `open62541` OPC UA stack to create a running OPC UA server.
 - [Visualizing OPC UA Information Model using Graphviz](https://opcua.rocks/visualizing-opc-ua-information-model-using-graphviz/) - Tutorial on how to use Graphviz to visualize OPC UA Information Models.
+
+## Videos
+- [Tech-Intro "OPC UA Concepts" by Uwe Steinkrauss (06-2019)](https://www.youtube.com/watch?v=E2XJfmAEdqw) - A 10 minutes technical introduction to OPC UA basic concepts. 
+
 
 ## Contribute
 
