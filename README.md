@@ -36,7 +36,8 @@ _Released OPC UA Specifications._
 - [OPC Foundation Online Reference](https://reference.opcfoundation.org/v104/)
 - [OPC Foundation UA Profile Reporting Visualization Tool](https://apps.opcfoundation.org/ProfileReporting/index.htm) - Overview of OPC UA Profiles.
 - [OPC Foundation UA Profile Reporting Visualization Tool with drafts](https://apps.opcfoundation.org/ProfileReporting/index.htm?All=true) - Same as above including (stable) drafts.
-- [OPC Foundation OPC UA Wiki](http://wiki.opcfoundation.org/index.php?title=Main_Page) - OPC UA Wiki of the OPC Foundation. **not up to the latest specification state**
+- [OPC Foundation Templates](https://opcfoundation.org/Guidelines-And-Templates/) - Templates for (joint) working groups.
+- [OPC Foundation OPC UA Wiki](http://wiki.opcfoundation.org/index.php?title=Main_Page) - OPC UA Wiki of the OPC Foundation. **Not up to the latest specification state!**
 - [List of Collaborations Groups on Companion Specifications](https://docs.google.com/spreadsheets/d/10SOpad6uu7JA5ZSpccVyqaqkyhYBiIXqNus28-1cJtU/edit#gid=1248333029) - Overview of the different standardization activities
 - [https://opcua.rocks/](https://opcua.rocks/) - blog about OPC UA
 - [https://sandervandevelde.wordpress.com/](https://sandervandevelde.wordpress.com/) -  IoT Blog (use also OPC UA in some projects)
