@@ -106,7 +106,9 @@ Compare implementations for OPC UA
 - [LibUA](https://github.com/nauful/LibUA) - Server/Client
 - [Träger](https://opcua.traeger.de/) - Server/Client proprietary
 - [dataFeed OPC UA](https://data-intelligence.softing.com/de/produkte/datafeed-opc-sdks/datafeed-opc-ua-net-standard-sdks/) - Server/Client proprietary (Softing)
+- [QuickOPC](https://www.opclabs.com/products/quickopc) - Client proprietary (OPC Labs)
 - [OPC UA .NET SDK](https://www.prosysopc.com/products/opc-ua-dotnet-sdk/) - Server/Client proprietary (Prosys)
+- [PicoOPC](https://www.opclabs.com/products/picoopc/for-dotnet) - OPC UA client library proprietary; NuGet pkg (OPC Labs) 
 - [Unified Automation .NET SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary
 
 #### Java
@@ -170,7 +172,7 @@ Compare implementations for OPC UA
 - [OPC UA Player](https://github.com/MileBuurmeijer/OPCUA-Player) -  supports replaying OPC UA data from a data file
 - [OPC UA Simulation Server](https://www.prosysopc.com/products/opc-ua-simulation-server/) - free (professional Edition can import own information model)
 - `opc.tcp://opcua.rocks:4840` - Demo Server based on open62541
-- `opc.tcp://opcua.umati.app:4840`- [umati Demo Server](https://github.com/umati/Sample-Server) based on open62541, implementing different umati endorse companion specifications
+- `opc.tcp://opcua.umati.app:4840`- [umati Demo Server](https://github.com/umati/Sample-Server) based on open62541, implementing different umati endorsed companion specifications
 - `opc.tcp://milo.digitalpetri.com:62541/milo` - [Demo Server](https://github.com/eclipse/milo#public-demo-server) based on eclipse/milo
 - [List of publicly availavle OPC UA Servers and Clients](https://github.com/node-opcua/node-opcua/wiki/publicly-available-OPC-UA-Servers-and-Clients)
 
