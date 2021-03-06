@@ -23,6 +23,7 @@ _Released OPC UA Specifications._
 
 - [OPC Unified Architecture Specification](https://opcfoundation.org/developer-tools/specifications-unified-architecture) - OPC UA Specification published by the OPC Foundation. Needs registration for download.
 - [OPC UA Information Models](https://opcfoundation.org/developer-tools/specifications-opc-ua-information-models) - OPC UA Companion Specifications released by the OPC Foundation. Needs registration for download.
+- [Git Repos containing the most of the nodsets](https://github.com/OPCFoundation/UA-Nodeset) - easy way to get the nodeset files without registration 
 - [OPC UA Online Reference](https://reference.opcfoundation.org/v104/) - Online versions of OPC UA specifications and information models. Harder to read than the pdf versions due to each chapter being a separate site. Search function over all parts of the standard and the information models.
 
 ## Resources
@@ -42,6 +43,7 @@ _Released OPC UA Specifications._
 - [https://opcua.rocks/](https://opcua.rocks/) - blog about OPC UA
 - [https://sandervandevelde.wordpress.com/](https://sandervandevelde.wordpress.com/) -  IoT Blog (use also OPC UA in some projects)
 - [OPCUA CS Graph](https://iswunistuttgart.github.io/opcua-cs-graph/) - Graph that shows the dependencies zwischen Companion Specification
+- [Github Orga of the OPC Foundation](https://github.com/OPCFoundation) - different software projects and reference implementations
 
 ### Books
 
