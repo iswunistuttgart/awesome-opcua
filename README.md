@@ -166,6 +166,7 @@ Compare implementations for OPC UA
 *Tools available online to help with OPC UA components or Information Models.*
 
 - [OPC UA NodeSet Validator](https://apps.opcfoundation.org/NodeSetValidator/) - Check NodeSet XML Files against Word Documents following the OPC Foundation Specification Template.
+- [OPC UANodeSet WebViewer](https://github.com/barnstee/UANodesetWebViewer) - Make the XML NodeSets browsable.
 
 ## Server Simulations
 
