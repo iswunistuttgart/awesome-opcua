@@ -15,6 +15,7 @@ A curated list of awesome OPC UA resources. Inspired by awesome-... stuff.
       - [Modelling Tools](#modelling-tools)
       - [Online Tools](#online-tools)
       - [SimulationServer](#SimulationServer)
+      - [Sever and Client examples](#Server-and-client-applications)
     - [Gateways  (OPC Classic)](#Gateways (OPC Classic))
 
 ## OPC UA Standards Documents
@@ -181,7 +182,7 @@ Compare implementations for OPC UA
 
 ## Server and client applications
 
-*Implementations of server and client applications and other examples
+*Implementations of server and client applications and other examples*
 
 - [OpcUaWebDashboard](https://github.com/barnstee/OpcUaWebDashboard) - A cloud-based, dockerized dashboard for displaying OPC UA PubSub telemetry data, read directly from an Azure IoT Hub. 
 - [UA-CloudLibrary](https://github.com/barnstee/UA-CloudLibrary) - Swagger prototype by @branstee for the OPC UA for Cloud Library OPC-Foundation JWG
