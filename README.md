@@ -179,6 +179,18 @@ Compare implementations for OPC UA
 - `opc.tcp://milo.digitalpetri.com:62541/milo` - [Demo Server](https://github.com/eclipse/milo#public-demo-server) based on eclipse/milo
 - [List of publicly availavle OPC UA Servers and Clients](https://github.com/node-opcua/node-opcua/wiki/publicly-available-OPC-UA-Servers-and-Clients)
 
+## Server and client applications
+
+*Implementations of server and client applications and other examples
+
+- [OpcUaWebDashboard](https://github.com/barnstee/OpcUaWebDashboard) - A cloud-based, dockerized dashboard for displaying OPC UA PubSub telemetry data, read directly from an Azure IoT Hub. 
+- [UA-CloudLibrary](https://github.com/barnstee/UA-CloudLibrary) - Swagger prototype by @branstee for the OPC UA for Cloud Library OPC-Foundation JWG
+- [CloudLib GraphQL](https://github.com/cesmii/CloudLib) - CloudLib GraphQL Prototype by CESMII for the OPC UA for Cloud Library OPC-Foundation JWG
+- [UA-CloudLibrary](https://github.com/OPCF-Members/UA-CloudLibrary) - Reference implememtation UA-CloudLibrary **REMARK: OPC-F members only for now**
+- [OPCUA2AAS](https://github.com/barnstee/OPCUA2AAS) - OPC UA Server that can generate an Industry 4.0 Asset Admin Shell from its info model.
+- [MQTTPublisherMVP](https://github.com/barnstee/MQTTPublisherMVP) - Minimum Viable Product for an MQTT-based OPC UA PubSub Publisher for industrial cloud telemetry.
+- [umati Dashboard](https://umati.app) - umati community online dashboard - [Specification](https://showcase.umati.org)
+
 ## Gateways (OPC Classic)
 
 coming soon
