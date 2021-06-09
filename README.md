@@ -66,7 +66,7 @@ _Information material available online._
 - [OPC Foundation UA Profile Reporting Visualization Tool with drafts](https://apps.opcfoundation.org/ProfileReporting/index.htm?All=true) - Same as above including (stable) drafts.
 - [OPC Foundation Templates](https://opcfoundation.org/Guidelines-And-Templates/) - Templates for (joint) working groups. Including MS Visio shapes for OPC UA.
 - [OPC Foundation OPC UA Wiki](http://wiki.opcfoundation.org/index.php?title=Main_Page) - OPC UA Wiki of the OPC Foundation. **Not up to the latest specification state!**
-- [OPC Foundation Information Modelling Best Practices](https://opcfoundation.org/wp-content/uploads/2020/09/OPC-11030-Whitepaper-UA-Modeling-Best-Practices-1.00.00.pdf) - Whitepaper intended to provide best practices while creating OPC UA information models. 
+- [OPC Foundation Information Modelling Best Practices](https://opcfoundation.org/wp-content/uploads/2020/09/OPC-11030-Whitepaper-UA-Modeling-Best-Practices-1.00.00.pdf) - Whitepaper intended to provide best practices while creating OPC UA information models.
 - [List of Collaborations Groups on Companion Specifications](https://docs.google.com/spreadsheets/d/10SOpad6uu7JA5ZSpccVyqaqkyhYBiIXqNus28-1cJtU/edit#gid=1248333029) - Overview of the different standardization activities
 - [https://opcua.rocks/](https://opcua.rocks/) - blog about OPC UA
 - [https://sandervandevelde.wordpress.com/](https://sandervandevelde.wordpress.com/) -  IoT Blog (use also OPC UA in some projects)
@@ -246,7 +246,6 @@ coming soon
 
 ## Related Lists
 
-- [traversaro/awesome-opcua](https://github.com/traversaro/awesome-opcua) Until commit [a26fd07](https://github.com/traversaro/awesome-opcua/commit/a26fd078797e8531cb3a463c9deac73e0ce37889) is integrated above.
 - [open62541's List of Open Source OPC UA Implementations](https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations) - List of open source OPC UA implementations.
 - [Agile-IoT/awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
 
