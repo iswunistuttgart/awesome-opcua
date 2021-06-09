@@ -81,21 +81,13 @@ _Books about OPC UA._
 
 ### Articles
 
-[PROFANTER, Stefan, et al. OPC UA versus ROS, DDS, and MQTT: performance evaluation of industry 4.0 protocols. In: Proceedings of the IEEE International Conference on Industrial Technology (ICIT). 2019.](https://mediatum.ub.tum.de/doc/1470362/file.pdf)
-
-Performance evaluation
-
-[H. Haskamp, M. Meyer, R. Möllmann, F. Orth and A. W. Colombo,  "Benchmarking of existing OPC UA implementations for Industrie  4.0-compliant digitalization solutions," *2017 IEEE 15th International Conference on Industrial Informatics (INDIN)*, Emden, 2017, pp. 589-594, doi: 10.1109/INDIN.2017.8104838](https://ieeexplore.ieee.org/abstract/document/8104838)
-
-Compare implementations for OPC UA
-
-[S. Friedl, T. Heinemann, A. Lechler  "Designentscheidungen für OPC-UA-Informationsmodelle" *WT online 5-2020 , 2020, pp. 589-594](https://www.ingenieur.de/fachmedien/wt-werkstattstechnik/ausgaben-wt-werkstattstechnik-online/inhalte-der-online-ausgabe-5-2020/)
-
-(German) Description of OPC UA Design decisions in OPC UA for Weighing Technology and OPC UA for Machine Tools
-
-[F. Kretschmer, C. Dripke, and A. Wohlfeld “Der Trend zur branchenorienterten OPC UA Companion Specification und deren Herausforderungen,” Marburg, 2018](https://www.der-maschinenbau.de/markt-trends-technik/der-trend-und-seine-herausforderungen/)
-
-(German) Descriptes the Trends of OPC UA  Companion Specification
+- [A Literature Survey on Open Platform Communications (OPC) Applied to Advanced Industrial Environments](https://www.mdpi.com/2079-9292/8/5/510) A literature Survey for OPC UA in 2019 with Trends and Open Research Issues
+- [OPC UA versus ROS, DDS, and MQTT: performance evaluation of industry 4.0 protocols](https://mediatum.ub.tum.de/doc/1470362/file.pdf)
+Performance evaluation of differente protocols
+- [Benchmarking of existing OPC UA implementations for Industrie  4.0-compliant digitalization solutions](https://ieeexplore.ieee.org/abstract/document/8104838)
+Compare different implementations for OPC UA
+- [Designentscheidungen für OPC-UA-Informationsmodelle](https://www.ingenieur.de/fachmedien/wt-werkstattstechnik/ausgaben-wt-werkstattstechnik-online/inhalte-der-online-ausgabe-5-2020/) (German) Description of OPC UA Design decisions in OPC UA for Weighing Technology and OPC UA for Machine Tools
+- [Der Trend zur branchenorienterten OPC UA Companion Specification und deren Herausforderungen](https://www.der-maschinenbau.de/markt-trends-technik/der-trend-und-seine-herausforderungen/) (German) Descriptes the Trends of OPC UA  Companion Specification
 
 ### Videos
 
