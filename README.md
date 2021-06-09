@@ -1,6 +1,16 @@
-# Awesome OPC UA
+# Awesome OPC UA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome OPC UA resources. Inspired by awesome-... stuff.
+> A curated list of Open Platform Communications Unified Architecture (OPC UA) libraries, tools and resources. Inspired by awesome-... stuff.
+
+Including the information from [traversaro/awesome-opcua](https://github.com/traversaro/awesome-opcua)
+
+Open Platform Communications Unified Architecture (OPC UA) is the data exchange standard for  safe, reliable, manufacturer- and platform-independent industrial communication.
+
+For a brief introduction to OPC UA, check the [What is OPC? UA in a Minute](https://www.youtube.com/watch?v=-tDGzwsBokY).
+
+See the [official OPC Foundation website](https://opcfoundation.org/about/opc-technologies/opc-ua/) for the official specifications and more information about the OPC UA standard.
+
+## Contents
 
 - [Awesome OPC UA](#awesome-opcua)
   - [OPC UA Standards Documents](#opc-ua-standards-documents)
@@ -10,13 +20,29 @@ A curated list of awesome OPC UA resources. Inspired by awesome-... stuff.
       - [Articles](#Articles)
       - [Videos](#Videos)
     - [Software](#software)
-      - [SDKs](#sdks)
+      - [SDKs and Libraries](#sdks-and-libraries)
+        - [C](#c)
+        - [C++](#c-1)
+        - [C#](#c-2)
+        - [JavaScript](#javascript)
+        - [Java](#java)
+        - [MATLAB](#matlab)
+        - [NuGet Packages](#nuget-packages)
+        - [Python](#python)
+        - [Rust](#rust)
+        - [Golang](#golang)
+        - [Delphi](#delphi)
       - [Test Clients](#test-clients)
       - [Modelling Tools](#modelling-tools)
       - [Online Tools](#online-tools)
       - [SimulationServer](#SimulationServer)
       - [Sever and Client examples](#Server-and-client-applications)
     - [Gateways  (OPC Classic)](#Gateways (OPC Classic))
+    - [Community](#community)
+    - [Related Lists](#related-lists)
+    - [Tutorials](#tutorials)
+    - [Contribute](#contribute)
+    - [License](#license)
 
 ## OPC UA Standards Documents
 
@@ -33,7 +59,7 @@ _Released OPC UA Specifications._
 
 ### Online Resources
 
-*Information material available online.*
+_Information material available online._
 
 - [OPC Foundation Online Reference](https://reference.opcfoundation.org/v104/)
 - [OPC Foundation UA Profile Reporting Visualization Tool](https://apps.opcfoundation.org/ProfileReporting/index.htm) - Overview of OPC UA Profiles.
@@ -48,7 +74,7 @@ _Released OPC UA Specifications._
 
 ### Books
 
-*Books about OPC UA.*
+_Books about OPC UA._
 
 - *Wolfgang Mahnke, Stefan-Helmut Leitner, Matthias Damm*, OPC Unified Architecture. *Springer; 2009*, ISBN: 978-3540688983.
 
@@ -73,21 +99,21 @@ Compare implementations for OPC UA
 ### Videos
 
 - [What is OPC? UA in a Minute](https://www.youtube.com/watch?v=-tDGzwsBokY)
+- [Tech-Intro "OPC UA Concepts" by Uwe Steinkrauss (06-2019)](https://www.youtube.com/watch?v=E2XJfmAEdqw) - A 10 minutes technical introduction to OPC UA basic concepts.
 - [20200622 02 OPC UA Technology](https://www.youtube.com/watch?v=OQC_kVYisS8)  - 20 min Introduction into OPC UA (OPC UA Day 2020)
 - [OPC UA Security Deep Dive by Randy Armstrong (Chair of OPC UA Security Working Group), Dec 2020](https://www.youtube.com/watch?v=pa82WydVtPY)
 
 ## Software
 
-*Software for creating OPC UA Servers, Clients, Publishers, Subscribers or Information Models.*
+_Software for creating OPC UA Servers, Clients, Publishers, Subscribers or Information Models._
 
-### SDKs
+### SDKs and Libraries
 
-*SDKs to create OPC UA components.*
+_SDKs to create OPC UA components._
 
-#### C / C++
+#### C
 
-- [open62541](https://open62541.org/) - Open Source C implementation for Server/Client and Pub/Sub.
-- [FreeOpcUA](http://freeopcua.github.io/) - Server/Client
+- [open62541](https://open62541.org/) - Open Source C (C99) implementation for Server/Client and Pub/Sub licensed under the Mozilla Public License v2.0. [MPL-2.0]
 - [OpenOpcUA](http://www.openopcua.org/)  - Server/Client
 - [OpenScadaUA Interface](http://oscada.org/websvn/filedetails.php?repname=OpenSCADA&path=%2Ftrunk%2FOpenSCADA%2Fsrc%2Fmoduls%2Fdaq%2FOPC_UA%2FlibOPC_UA%2FlibOPC_UA.h) - only Server
 - [ASNeG](https://github.com/ASNeG/OpcUaStack)  - Server/Client
@@ -99,9 +125,16 @@ Compare implementations for OPC UA
 - [Prosys OPC UA C/C++ SDKs](https://www.prosysopc.com/products/opc-ua-cplusplus-sdk/) - Server/Client proprietary
 - [Unified Automation C/C++ SDKs](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary
 
+#### C++
+
+- [freeopcua](https://github.com/FreeOpcUa/freeopcua) - Open Source C++ OPC-UA Server and Client Library. [LGPL-3.0]
+- [QtOPCUA](https://doc.qt.io/QtOPCUA/index.html) - Qt module that implements a Qt API to interact with OPC UA. [LGPL-3.0]
+- [QUaServer](https://github.com/juangburgos/QUaServer) -  Qt C++ wrapper for open62541 server stack. [MIT]
+- [ASNeG OPC UA Stack](https://asneg.github.io/projects/opcuastack) - Open source C++ framework for development and distribution of OPC UA client\server applications. [Apache-2.0]
+
 #### C\#
 
-- [UA.NET Standard](https://github.com/OPCFoundation/UA-.NETStandard) - Server/Client
+- [UA.NET Standard](https://github.com/OPCFoundation/UA-.NETStandard) - Server/Client - Official OPC UA .NET Standard Stack from the OPC Foundation. [GPL-2.0 / RCL dual licensed]
 - [UACL/CS](Client/Server (wrapper over proprietary sdk)) - Client/Server (wrapper over proprietary sdk)
 - [opc-ua-client](https://github.com/convertersystems/opc-ua-client)-  only Client
 - [LibUA](https://github.com/nauful/LibUA) - Server/Client
@@ -112,30 +145,39 @@ Compare implementations for OPC UA
 - [PicoOPC](https://www.opclabs.com/products/picoopc/for-dotnet) - OPC UA client library proprietary; NuGet pkg (OPC Labs)
 - [Unified Automation .NET SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary
 
+#### JavaScript / TypeScript
+
+- [node-opcua](http://node-opcua.github.io/) - Server/Client - NodeOPCUA is a OPC UA stack fully written in TypeScript for NodeJS. [MIT]
+- [node-red-contrib-opcua](https://flows.nodered.org/node/node-red-contrib-opcua) - Node-Red Plugin for OPC UA (Server/Client)
+- [HBM/opcua](https://github.com/HBM/opcua) - only Client
+
 #### Java
 
-- [Eclipse Milo](https://github.com/eclipse/milo) - Server/Client
+- [Eclipse Milo™](https://github.com/eclipse/milo) - Server/Client - Java open source implementation of OPC UA (IEC 62541).  [EPL-2.0]
 - [opcua4j](https://code.google.com/p/opcua4j/)  - only Server
 - [Prosys OPC UA](https://www.prosysopc.com/products/opc-ua-java-sdk/) -Server/Client proprietary
+
+#### MATLAB
+
+- [OPC Toolbox](https://www.mathworks.com/help/opc/index.html) - MATLAB official toolbox that supports OPC UA. See <https://www.mathworks.com/discovery/opc-ua.html> for more details. [Commercial]
+
+#### NuGet Packages
+
+- [OPCFoundation.NetStandard.Opc.Ua](https://www.nuget.org/packages/OPCFoundation.NetStandard.Opc.Ua/) - NuGet Package of the Reference Implementation [[OPC-F redistributables license]](https://opcfoundation.org/license/redistributables/1.3/)
 
 #### Python
 
 - [uaf](https://github.com/uaf/uaf) - Client (wrapper over proprietary sdk)
 - [Python FreeOpcUa](https://github.com/FreeOpcUa/python-opcua)  - Server /Client
-
-#### JavaScript / TypeScript
-
-- [node-opcua](http://node-opcua.github.io/) - Server/Client
-- [node-red-contrib-opcua](https://flows.nodered.org/node/node-red-contrib-opcua) - Node-Red Plugin for OPC UA (Server/Client)
-- [opcua](https://github.com/HBM/opcua) - only Client
+- [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) - OPC UA / IEC 62541 Client and Server for Python >= 3.7 and pypy3. [LGPL-3.0]
 
 #### Rust
 
-- [opcua](https://github.com/locka99/opcua) - Server/Client
+- [locka99/opcua](https://github.com/locka99/opcua) - OPC UA server / client API implementation for Rust. [MPL-2.0]
 
 #### Golang
 
-- [opcua](https://github.com/gopcua/opcua) - Server/Client
+- [gopcua/opcua](https://github.com/gopcua/opcua) - Server/Client - A native Go implementation of the OPC/UA Binary Protocol.
 
 #### Delphi
 
@@ -144,9 +186,9 @@ Compare implementations for OPC UA
 
 ### Test Clients
 
-*Test Clients to check server implementations manually.*
+_Test Clients to check server implementations manually._
 
-- [UAExpert](https://www.unified-automation.com/products/development-tools/uaexpert.html) - Demo Client developed by Unified Automation (free evaluation license).
+- [UaExpert](https://www.unified-automation.com/products/development-tools/uaexpert.html) - General purpose graphical test client supporting OPC UA features like DataAccess, Alarms & Conditions, Historical Access and calling of UA Methods by Unified Automation [Commercial] (free evaluation license).
 - [dataFEED](https://data-intelligence.softing.com/de/produkte/opc-software-plattform/opc-ua-demo-client/) - Demo Client developed by Softing (free)
 - [FreeOpcUA](https://github.com/FreeOpcUa/opcua-client-gui) - OpenSource Client based on python
 - [Prosys OPC UA Monitor](https://www.prosysopc.com/products/opc-ua-monitor/) - HMI Tool  (Evaluation for Free)
@@ -154,11 +196,12 @@ Compare implementations for OPC UA
 
 ### Modelling Tools
 
-*Tools to create OPC UA Information Models.*
+_Tools to create OPC UA Information Models._
 
-- [UAModeler](https://www.unified-automation.com/products/development-tools/uamodeler.html) - Modeling Tool by Unified Automation.
-- [OPC UA Modeler](https://www.prosysopc.com/products/opc-ua-modeler/) - Modeling Tool by Prosys
-- [SiOME](https://support.industry.siemens.com/cs/document/109755133/siemens-opc-ua-modeling-editor-%28siome%29-for-implementing-opc-ua-companion-specifications?dti=0&lc=en-WW) - Modeling Tool by Siemens
+- [UAModeler](https://www.unified-automation.com/products/development-tools/uamodeler.html) - Modeling Tool by Unified Automation. [Commercial]
+- [OPC UA Modeler](https://www.prosysopc.com/products/opc-ua-modeler/) - Modeling Tool by Prosys [Commercial]
+- [SiOME](https://support.industry.siemens.com/cs/document/109755133/siemens-opc-ua-modeling-editor-%28siome%29-for-implementing-opc-ua-companion-specifications?dti=0&lc=en-WW) - Modeling Tool by Siemens [Commercial]
+- [UA-ModelCompiler](https://github.com/OPCFoundation/UA-ModelCompiler) - Tool to convert OPC UA Information models in Model.xml format to NodeSet2.xml Format. [MIT]
 
 ### Online Tools
 
@@ -180,7 +223,7 @@ Compare implementations for OPC UA
 
 ## Server and client applications
 
-*Implementations of server and client applications and other examples*
+_Implementations of server and client applications and other examples._
 
 - [OpcUaWebDashboard](https://github.com/barnstee/OpcUaWebDashboard) - A cloud-based, dockerized dashboard for displaying OPC UA PubSub telemetry data, read directly from an Azure IoT Hub.
 - [UA-CloudLibrary](https://github.com/barnstee/UA-CloudLibrary) - Swagger prototype by @branstee for the OPC UA for Cloud Library OPC-Foundation JWG
@@ -193,70 +236,6 @@ Compare implementations for OPC UA
 ## Gateways (OPC Classic)
 
 coming soon
-# Awesome OPC UA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-> A curated list of Open Platform Communications Unified Architecture (OPC UA) libraries, tools and resources.
-
-Open Platform Communications Unified Architecture (OPC UA) is the data exchange standard for  safe, reliable, manufacturer- and platform-independent industrial communication.
-For a brief introduction to OPC UA, check the [What is OPC? UA in a Minute](https://www.youtube.com/watch?v=-tDGzwsBokY).
-
-See the [official OPC Foundation website](https://opcfoundation.org/about/opc-technologies/opc-ua/) for the official specifications and more information about the OPC UA standard.
-
-## Contents
-
-- [Libraries](#libraries)
-  - [C](#c)
-  - [C++](#c-1)
-  - [Python](#python)
-  - [JavaScript](#javascript)
-  - [Java](#java)
-  - [MATLAB](#matlab)
-  - [Rust](#rust)
-  - [C#](#c-2)
-  - [Go](#go)
-- [Tools](#tools)
-- [Community](#community)
-- [Related Lists](#related-lists)
-- [Tutorials](#tutorials)
-- [Contribute](#contribute)
-- [License](#license)
-
-## Libraries
-
-### C
-- [open62541](https://open62541.org/) - Open source C (C99) implementation of OPC UA licensed under the Mozilla Public License v2.0.
- [MPL-2.0]
-
-### C++
-- [freeopcua](https://github.com/FreeOpcUa/freeopcua) - Open Source C++ OPC-UA Server and Client Library. [LGPL-3.0]
-- [QtOPCUA](https://doc.qt.io/QtOPCUA/index.html) - Qt module that implements a Qt API to interact with OPC UA. [LGPL-3.0]
-- [QUaServer](https://github.com/juangburgos/QUaServer) -  Qt C++ wrapper for open62541 server stack. [MIT]
-- [ASNeG OPC UA Stack](https://asneg.github.io/projects/opcuastack) - Open source C++ framework for development and distribution of OPC UA client\server applications. [Apache-2.0]
-
-### Python
-- [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) - OPC UA / IEC 62541 Client and Server for Python >= 3.7 and pypy3. [LGPL-3.0]
-
-### JavaScript
-- [NodeOPCUA ](http://node-opcua.github.io/) - NodeOPCUA is a OPC UA stack fully written in TypeScript for NodeJS. [MIT]
-
-### Java
-- [Eclipse Milo™](https://github.com/eclipse/milo) - Java open source implementation of OPC UA (IEC 62541).  [EPL-2.0]
-
-### MATLAB
-- [OPC Toolbox](https://www.mathworks.com/help/opc/index.html) - MATLAB official toolbox that supports OPC UA. <See https://www.mathworks.com/discovery/opc-ua.html> for more details. [Commercial]
-
-### Rust
-- [locka99/opcua](https://github.com/locka99/opcua) - OPC UA server / client API implementation for Rust. [MPL-2.0]
-
-### C#
-- [UA.NET Standard](https://github.com/OPCFoundation/UA-.NETStandard) - Official OPC UA .NET Standard Stack from the OPC Foundation. [GPL-2.0]
-
-### Go
-- [gopcua/opcua](https://github.com/gopcua/opcua) - A native Go implementation of the OPC/UA Binary Protocol.
-
-## Tools
-- [UaExpert](https://www.unified-automation.com/products/development-tools/uaexpert.html) - General purpose graphical test client supporting OPC UA features like DataAccess, Alarms & Conditions, Historical Access and calling of UA Methods. [Commercial]
-- [UA-ModelCompiler](https://github.com/OPCFoundation/UA-ModelCompiler) - Tool to convert OPC UA Information models in Model.xml format to NodeSet2.xml Format. [MIT]
 
 ## Community
 
@@ -266,15 +245,14 @@ See the [official OPC Foundation website](https://opcfoundation.org/about/opc-te
 
 ## Related Lists
 
+- [traversaro/awesome-opcua](https://github.com/traversaro/awesome-opcua) Until commit [a26fd07](https://github.com/traversaro/awesome-opcua/commit/a26fd078797e8531cb3a463c9deac73e0ce37889) is integrated above.
 - [open62541's List of Open Source OPC UA Implementations](https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations) - List of open source OPC UA implementations.
 - [Agile-IoT/awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
 
 ## Tutorials
+
 - [From modelling to execution – OPC UA Information Model Tutorial](https://opcua.rocks/from-modelling-to-execution-opc-ua-information-model-tutorial/) - Complete walkthrough from creating a custom OPC UA information model, compiling this model into an OPC UA `NodeSet2.xml` file, and then using the `open62541` OPC UA stack to create a running OPC UA server.
 - [Visualizing OPC UA Information Model using Graphviz](https://opcua.rocks/visualizing-opc-ua-information-model-using-graphviz/) - Tutorial on how to use Graphviz to visualize OPC UA Information Models.
-
-## Videos
-- [Tech-Intro "OPC UA Concepts" by Uwe Steinkrauss (06-2019)](https://www.youtube.com/watch?v=E2XJfmAEdqw) - A 10 minutes technical introduction to OPC UA basic concepts.
 
 ## Contribute
 
@@ -282,4 +260,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[CC0 1.0 Universal](LICENSE)
