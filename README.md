@@ -24,7 +24,7 @@ _Released OPC UA Specifications._
 
 - [OPC Unified Architecture Specification](https://opcfoundation.org/developer-tools/specifications-unified-architecture) - OPC UA Specification published by the OPC Foundation. Needs registration for download.
 - [OPC UA Information Models](https://opcfoundation.org/developer-tools/specifications-opc-ua-information-models) - OPC UA Companion Specifications released by the OPC Foundation. Needs registration for download.
-- [Git Repos containing the most of the nodsets](https://github.com/OPCFoundation/UA-Nodeset) - easy way to get the nodeset files without registration 
+- [Git Repos containing the most of the nodsets](https://github.com/OPCFoundation/UA-Nodeset) - easy way to get the nodeset files without registration
 - [OPC UA Online Reference](https://reference.opcfoundation.org/v104/) - Online versions of OPC UA specifications and information models. Harder to read than the pdf versions due to each chapter being a separate site. Search function over all parts of the standard and the information models.
 
 ## Resources
@@ -52,7 +52,6 @@ _Released OPC UA Specifications._
 
 - *Wolfgang Mahnke, Stefan-Helmut Leitner, Matthias Damm*, OPC Unified Architecture. *Springer; 2009*, ISBN: 978-3540688983.
 
-
 ### Articles
 
 [PROFANTER, Stefan, et al. OPC UA versus ROS, DDS, and MQTT: performance evaluation of industry 4.0 protocols. In: Proceedings of the IEEE International Conference on Industrial Technology (ICIT). 2019.](https://mediatum.ub.tum.de/doc/1470362/file.pdf)
@@ -76,7 +75,6 @@ Compare implementations for OPC UA
 - [What is OPC? UA in a Minute](https://www.youtube.com/watch?v=-tDGzwsBokY)
 - [20200622 02 OPC UA Technology](https://www.youtube.com/watch?v=OQC_kVYisS8)  - 20 min Introduction into OPC UA (OPC UA Day 2020)
 - [OPC UA Security Deep Dive by Randy Armstrong (Chair of OPC UA Security Working Group), Dec 2020](https://www.youtube.com/watch?v=pa82WydVtPY)
-
 
 ## Software
 
@@ -111,7 +109,7 @@ Compare implementations for OPC UA
 - [dataFeed OPC UA](https://data-intelligence.softing.com/de/produkte/datafeed-opc-sdks/datafeed-opc-ua-net-standard-sdks/) - Server/Client proprietary (Softing)
 - [QuickOPC](https://www.opclabs.com/products/quickopc) - Client proprietary (OPC Labs)
 - [OPC UA .NET SDK](https://www.prosysopc.com/products/opc-ua-dotnet-sdk/) - Server/Client proprietary (Prosys)
-- [PicoOPC](https://www.opclabs.com/products/picoopc/for-dotnet) - OPC UA client library proprietary; NuGet pkg (OPC Labs) 
+- [PicoOPC](https://www.opclabs.com/products/picoopc/for-dotnet) - OPC UA client library proprietary; NuGet pkg (OPC Labs)
 - [Unified Automation .NET SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary
 
 #### Java
@@ -184,7 +182,7 @@ Compare implementations for OPC UA
 
 *Implementations of server and client applications and other examples*
 
-- [OpcUaWebDashboard](https://github.com/barnstee/OpcUaWebDashboard) - A cloud-based, dockerized dashboard for displaying OPC UA PubSub telemetry data, read directly from an Azure IoT Hub. 
+- [OpcUaWebDashboard](https://github.com/barnstee/OpcUaWebDashboard) - A cloud-based, dockerized dashboard for displaying OPC UA PubSub telemetry data, read directly from an Azure IoT Hub.
 - [UA-CloudLibrary](https://github.com/barnstee/UA-CloudLibrary) - Swagger prototype by @branstee for the OPC UA for Cloud Library OPC-Foundation JWG
 - [CloudLib GraphQL](https://github.com/cesmii/CloudLib) - CloudLib GraphQL Prototype by CESMII for the OPC UA for Cloud Library OPC-Foundation JWG
 - [UA-CloudLibrary](https://github.com/OPCF-Members/UA-CloudLibrary) - Reference implememtation UA-CloudLibrary **REMARK: OPC-F members only for now**
@@ -195,3 +193,93 @@ Compare implementations for OPC UA
 ## Gateways (OPC Classic)
 
 coming soon
+# Awesome OPC UA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> A curated list of Open Platform Communications Unified Architecture (OPC UA) libraries, tools and resources.
+
+Open Platform Communications Unified Architecture (OPC UA) is the data exchange standard for  safe, reliable, manufacturer- and platform-independent industrial communication.
+For a brief introduction to OPC UA, check the [What is OPC? UA in a Minute](https://www.youtube.com/watch?v=-tDGzwsBokY).
+
+See the [official OPC Foundation website](https://opcfoundation.org/about/opc-technologies/opc-ua/) for the official specifications and more information about the OPC UA standard.
+
+## Contents
+
+- [Libraries](#libraries)
+  - [C](#c)
+  - [C++](#c-1)
+  - [Python](#python)
+  - [JavaScript](#javascript)
+  - [Java](#java)
+  - [MATLAB](#matlab)
+  - [Rust](#rust)
+  - [C#](#c-2)
+  - [Go](#go)
+- [Tools](#tools)
+- [Community](#community)
+- [Related Lists](#related-lists)
+- [Tutorials](#tutorials)
+- [Contribute](#contribute)
+- [License](#license)
+
+## Libraries
+
+### C
+- [open62541](https://open62541.org/) - Open source C (C99) implementation of OPC UA licensed under the Mozilla Public License v2.0.
+ [MPL-2.0]
+
+### C++
+- [freeopcua](https://github.com/FreeOpcUa/freeopcua) - Open Source C++ OPC-UA Server and Client Library. [LGPL-3.0]
+- [QtOPCUA](https://doc.qt.io/QtOPCUA/index.html) - Qt module that implements a Qt API to interact with OPC UA. [LGPL-3.0]
+- [QUaServer](https://github.com/juangburgos/QUaServer) -  Qt C++ wrapper for open62541 server stack. [MIT]
+- [ASNeG OPC UA Stack](https://asneg.github.io/projects/opcuastack) - Open source C++ framework for development and distribution of OPC UA client\server applications. [Apache-2.0]
+
+### Python
+- [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) - OPC UA / IEC 62541 Client and Server for Python >= 3.7 and pypy3. [LGPL-3.0]
+
+### JavaScript
+- [NodeOPCUA ](http://node-opcua.github.io/) - NodeOPCUA is a OPC UA stack fully written in TypeScript for NodeJS. [MIT]
+
+### Java
+- [Eclipse Milo™](https://github.com/eclipse/milo) - Java open source implementation of OPC UA (IEC 62541).  [EPL-2.0]
+
+### MATLAB
+- [OPC Toolbox](https://www.mathworks.com/help/opc/index.html) - MATLAB official toolbox that supports OPC UA. <See https://www.mathworks.com/discovery/opc-ua.html> for more details. [Commercial]
+
+### Rust
+- [locka99/opcua](https://github.com/locka99/opcua) - OPC UA server / client API implementation for Rust. [MPL-2.0]
+
+### C#
+- [UA.NET Standard](https://github.com/OPCFoundation/UA-.NETStandard) - Official OPC UA .NET Standard Stack from the OPC Foundation. [GPL-2.0]
+
+### Go
+- [gopcua/opcua](https://github.com/gopcua/opcua) - A native Go implementation of the OPC/UA Binary Protocol.
+
+## Tools
+- [UaExpert](https://www.unified-automation.com/products/development-tools/uaexpert.html) - General purpose graphical test client supporting OPC UA features like DataAccess, Alarms & Conditions, Historical Access and calling of UA Methods. [Commercial]
+- [UA-ModelCompiler](https://github.com/OPCFoundation/UA-ModelCompiler) - Tool to convert OPC UA Information models in Model.xml format to NodeSet2.xml Format. [MIT]
+
+## Community
+
+- [Stack Overflow](https://stackoverflow.com/tags/opc-ua) - Questions related to OPC UA in Stack Overflow.
+- [OPC Foundation Twitter](https://twitter.com/OPCFoundation) - Official OPC Foundation account that shares update about the OPC UA standard.
+- [OPC Foundation Podcast](https://opcfoundation.org/resources/podcast/) - Official OPC Foundation podcast that gives insight into the OPC UA technology, applications in different industries and answers questions from the audience.
+
+## Related Lists
+
+- [open62541's List of Open Source OPC UA Implementations](https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations) - List of open source OPC UA implementations.
+- [Agile-IoT/awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
+
+## Tutorials
+- [From modelling to execution – OPC UA Information Model Tutorial](https://opcua.rocks/from-modelling-to-execution-opc-ua-information-model-tutorial/) - Complete walkthrough from creating a custom OPC UA information model, compiling this model into an OPC UA `NodeSet2.xml` file, and then using the `open62541` OPC UA stack to create a running OPC UA server.
+- [Visualizing OPC UA Information Model using Graphviz](https://opcua.rocks/visualizing-opc-ua-information-model-using-graphviz/) - Tutorial on how to use Graphviz to visualize OPC UA Information Models.
+
+## Videos
+- [Tech-Intro "OPC UA Concepts" by Uwe Steinkrauss (06-2019)](https://www.youtube.com/watch?v=E2XJfmAEdqw) - A 10 minutes technical introduction to OPC UA basic concepts.
+
+## Contribute
+
+Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
