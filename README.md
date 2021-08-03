@@ -36,8 +36,8 @@ See the [official OPC Foundation website](https://opcfoundation.org/about/opc-te
       - [Modelling Tools](#modelling-tools)
       - [Online Tools](#online-tools)
       - [SimulationServer](#SimulationServer)
-      - [Sever and Client examples](#Server-and-client-applications)
-    - [Gateways  (OPC Classic)](#Gateways (OPC Classic))
+      - [Server and Client examples](#Server-and-client-applications)
+    - [Gateways (OPC Classic)](#Gateways (OPC Classic))
     - [Community](#community)
     - [Related Lists](#related-lists)
     - [Tutorials](#tutorials)
@@ -50,7 +50,7 @@ _Released OPC UA Specifications._
 
 - [OPC Unified Architecture Specification](https://opcfoundation.org/developer-tools/specifications-unified-architecture) - OPC UA Specification published by the OPC Foundation. Needs registration for download.
 - [OPC UA Information Models](https://opcfoundation.org/developer-tools/specifications-opc-ua-information-models) - OPC UA Companion Specifications released by the OPC Foundation. Needs registration for download.
-- [Git Repos containing the most of the nodsets](https://github.com/OPCFoundation/UA-Nodeset) - easy way to get the nodeset files without registration
+- [OPC Foundation Git Repo of NodeSets](https://github.com/OPCFoundation/UA-Nodeset) - easy way to get the nodeset files without registration
 - [OPC UA Online Reference](https://reference.opcfoundation.org/v104/) - Online versions of OPC UA specifications and information models. Harder to read than the pdf versions due to each chapter being a separate site. Search function over all parts of the standard and the information models.
 
 ## Resources
@@ -71,7 +71,7 @@ _Information material available online._
 - [https://opcua.rocks/](https://opcua.rocks/) - blog about OPC UA
 - [https://sandervandevelde.wordpress.com/](https://sandervandevelde.wordpress.com/) -  IoT Blog (use also OPC UA in some projects)
 - [OPCUA CS Graph](https://iswunistuttgart.github.io/opcua-cs-graph/) - Graph that shows the dependencies zwischen Companion Specification
-- [Github Orga of the OPC Foundation](https://github.com/OPCFoundation) - different software projects and reference implementations
+- [GitHub Org of the OPC Foundation](https://github.com/OPCFoundation) - different software projects and reference implementations
 
 ### Books
 
@@ -113,11 +113,11 @@ _SDKs to create OPC UA components._
 - [uaf](https://github.com/uaf/uaf)  - Client (wrapper over proprietary sdk)
 - [UACL/CPP -](https://gitlab.com/falko.wiese/uacl_cpp) Server (wrapper over proprietary sdk)
 - [S2OPC](https://gitlab.com/systerel/S2OPC) - Client/Server
-- [dataFeed OPC UA](https://data-intelligence.softing.com/de/produkte/datafeed-opc-sdks/datafeed-opc-ua-c-server-client-sdk-for-windows/) - Server/Client proprietary (Softing)
-- [OPC UA SDK/Toolkit für Embedded-Geräte](https://industrial.softing.com/de/produkte/opc-ua-and-opc-classic-sdks/uatoolkit-embedded.html) - C implementation for Server/Client and Pub/Sub
-- [Prosys OPC UA C/C++ SDKs](https://www.prosysopc.com/products/opc-ua-cplusplus-sdk/) - Server/Client proprietary
-- [Unified Automation C/C++ SDKs](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary
-- [NodesetLoader](https://github.com/matkonnerth/nodesetLoader) - Library for importing nodesets in xml schema, add nodeset import to open62541
+- [dataFeed OPC UA](https://data-intelligence.softing.com/de/produkte/datafeed-opc-sdks/datafeed-opc-ua-c-server-client-sdk-for-windows/) - Server/Client proprietary (Softing) [Commercial]
+- [OPC UA SDK/Toolkit für Embedded-Geräte](https://industrial.softing.com/de/produkte/opc-ua-and-opc-classic-sdks/uatoolkit-embedded.html) - C implementation for Server/Client and Pub/Sub [Commercial]
+- [Prosys OPC UA C/C++ SDKs](https://www.prosysopc.com/products/opc-ua-cplusplus-sdk/) - Server/Client proprietary [Commercial]
+- [Unified Automation C/C++ SDKs](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary [Commercial]
+- [NodesetLoader](https://github.com/matkonnerth/nodesetLoader) - Library for importing nodesets in xml schema, add nodeset import to open62541 [MPL-2.0]
 
 #### C++
 
@@ -132,12 +132,12 @@ _SDKs to create OPC UA components._
 - [UACL/CS](Client/Server (wrapper over proprietary sdk)) - Client/Server (wrapper over proprietary sdk)
 - [opc-ua-client](https://github.com/convertersystems/opc-ua-client)-  only Client
 - [LibUA](https://github.com/nauful/LibUA) - Server/Client
-- [Träger](https://opcua.traeger.de/) - Server/Client proprietary
-- [dataFeed OPC UA](https://data-intelligence.softing.com/de/produkte/datafeed-opc-sdks/datafeed-opc-ua-net-standard-sdks/) - Server/Client proprietary (Softing)
-- [QuickOPC](https://www.opclabs.com/products/quickopc) - Client proprietary (OPC Labs)
-- [OPC UA .NET SDK](https://www.prosysopc.com/products/opc-ua-dotnet-sdk/) - Server/Client proprietary (Prosys)
-- [PicoOPC](https://www.opclabs.com/products/picoopc/for-dotnet) - OPC UA client library proprietary; NuGet pkg (OPC Labs)
-- [Unified Automation .NET SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary
+- [Träger](https://opcua.traeger.de/) - Server/Client [Commercial]
+- [dataFeed OPC UA](https://data-intelligence.softing.com/de/produkte/datafeed-opc-sdks/datafeed-opc-ua-net-standard-sdks/) - Server/Client (Softing) [Commercial]
+- [QuickOPC](https://www.opclabs.com/products/quickopc) - Client (OPC Labs)
+- [OPC UA .NET SDK](https://www.prosysopc.com/products/opc-ua-dotnet-sdk/) - Server/Client (Prosys) [Commercial]
+- [PicoOPC](https://www.opclabs.com/products/picoopc/for-dotnet) - OPC UA client library [Commercial]
+- [Unified Automation .NET SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client [Commercial]
 
 #### JavaScript / TypeScript
 
@@ -149,7 +149,7 @@ _SDKs to create OPC UA components._
 
 - [Eclipse Milo™](https://github.com/eclipse/milo) - Server/Client - Java open source implementation of OPC UA (IEC 62541).  [EPL-2.0]
 - [opcua4j](https://code.google.com/p/opcua4j/)  - only Server
-- [Prosys OPC UA](https://www.prosysopc.com/products/opc-ua-java-sdk/) -Server/Client proprietary
+- [Prosys OPC UA](https://www.prosysopc.com/products/opc-ua-java-sdk/) - Server/Client proprietary
 
 #### MATLAB
 
@@ -158,6 +158,7 @@ _SDKs to create OPC UA components._
 #### NuGet Packages
 
 - [OPCFoundation.NetStandard.Opc.Ua](https://www.nuget.org/packages/OPCFoundation.NetStandard.Opc.Ua/) - NuGet Package of the Reference Implementation [[OPC-F redistributables license]](https://opcfoundation.org/license/redistributables/1.3/)
+- [PicoOPC](https://www.opclabs.com/products/picoopc/for-dotnet) - OPC UA client library (OPC Labs) [Commercial]
 
 #### Python
 
@@ -175,8 +176,8 @@ _SDKs to create OPC UA components._
 
 #### Delphi
 
-- [Sentrol SDK for Delphi](https://www.prosysopc.com/products/opc-ua-sentrol-sdk/) - Server/Client proprietary (Prosys)
-- [Unified Automation Delphi SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary
+- [Sentrol SDK for Delphi](https://www.prosysopc.com/products/opc-ua-sentrol-sdk/) - Server/Client proprietary (Prosys) [Commercial]
+- [Unified Automation Delphi SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary [Commercial]
 
 ### Test Clients
 
@@ -212,7 +213,8 @@ _Tools to create OPC UA Information Models._
 - [OPC UA Player](https://github.com/MileBuurmeijer/OPCUA-Player) -  supports replaying OPC UA data from a data file
 - [OPC UA Simulation Server](https://www.prosysopc.com/products/opc-ua-simulation-server/) - free (professional Edition can import own information model)
 - `opc.tcp://opcua.rocks:4840` - Demo Server based on open62541
-- `opc.tcp://opcua.umati.app:4840`- [umati Demo Server](https://github.com/umati/Sample-Server) based on open62541, implementing different umati endorsed companion specifications
+- `opc.tcp://opcua.umati.app:4840` - [umati Demo Server](https://github.com/umati/Sample-Server) implementing different umati endorsed companion specifications
+- `opc.tcp://opcua2.umati.app:4840` - [umati Demo Server 2](https://github.com/umati/Sample-Server-asyncio) implementing different umati endorsed companion specifications
 - `opc.tcp://milo.digitalpetri.com:62541/milo` - [Demo Server](https://github.com/eclipse/milo#public-demo-server) based on eclipse/milo
 - [List of publicly availavle OPC UA Servers and Clients](https://github.com/node-opcua/node-opcua/wiki/publicly-available-OPC-UA-Servers-and-Clients)
 
@@ -227,6 +229,8 @@ _Implementations of server and client applications and other examples._
 - [OPCUA2AAS](https://github.com/barnstee/OPCUA2AAS) - OPC UA Server that can generate an Industry 4.0 Asset Admin Shell from its info model.
 - [MQTTPublisherMVP](https://github.com/barnstee/MQTTPublisherMVP) - Minimum Viable Product for an MQTT-based OPC UA PubSub Publisher for industrial cloud telemetry.
 - [umati Dashboard](https://umati.app) - umati community online dashboard - [Specification](https://showcase.umati.org)
+- [umati Sample Server](https://github.com/umati/Sample-Server) based on open62541
+- [umati Sample Server 2](https://github.com/umati/Sample-Server-asyncio) based on [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio)
 
 ## Gateways (OPC Classic)
 
@@ -247,6 +251,7 @@ coming soon
 
 - [From modelling to execution – OPC UA Information Model Tutorial](https://opcua.rocks/from-modelling-to-execution-opc-ua-information-model-tutorial/) - Complete walkthrough from creating a custom OPC UA information model, compiling this model into an OPC UA `NodeSet2.xml` file, and then using the `open62541` OPC UA stack to create a running OPC UA server.
 - [Visualizing OPC UA Information Model using Graphviz](https://opcua.rocks/visualizing-opc-ua-information-model-using-graphviz/) - Tutorial on how to use Graphviz to visualize OPC UA Information Models.
+- (WIP) [OPC UA Tutorials](https://github.com/AndreasHeine/opcua-tutorial) - Tutorial for [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio)
 
 ## Contribute
 
