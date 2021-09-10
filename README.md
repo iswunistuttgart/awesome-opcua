@@ -70,7 +70,7 @@ _Information material available online._
 - [List of Collaborations Groups on Companion Specifications](https://docs.google.com/spreadsheets/d/10SOpad6uu7JA5ZSpccVyqaqkyhYBiIXqNus28-1cJtU/edit#gid=1248333029) - Overview of the different standardization activities
 - [https://opcua.rocks/](https://opcua.rocks/) - blog about OPC UA
 - [https://sandervandevelde.wordpress.com/](https://sandervandevelde.wordpress.com/) -  IoT Blog (use also OPC UA in some projects)
-- [OPCUA CS Graph](https://iswunistuttgart.github.io/opcua-cs-graph/) - Graph that shows the dependencies zwischen Companion Specification
+- [OPCUA CS Graph](https://iswunistuttgart.github.io/opcua-cs-graph/) - Graph that shows the dependencies between Companion Specification
 - [GitHub Org of the OPC Foundation](https://github.com/OPCFoundation) - different software projects and reference implementations
 
 ### Books
