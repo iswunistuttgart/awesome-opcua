@@ -96,6 +96,7 @@ Compare different implementations for OPC UA
 - [Tech-Intro "OPC UA Concepts" by Uwe Steinkrauss (06-2019)](https://www.youtube.com/watch?v=E2XJfmAEdqw) - A 10 minutes technical introduction to OPC UA basic concepts.
 - [20200622 02 OPC UA Technology](https://www.youtube.com/watch?v=OQC_kVYisS8)  - 20 min Introduction into OPC UA (OPC UA Day 2020)
 - [OPC UA Security Deep Dive by Randy Armstrong (Chair of OPC UA Security Working Group), Dec 2020](https://www.youtube.com/watch?v=pa82WydVtPY)
+- [YouTube Channel of the OPC Foundation](https://www.youtube.com/user/TheOPCFoundation)
 
 ## Software
 
@@ -206,7 +207,7 @@ _Tools to create OPC UA Information Models._
 *Tools available online to help with OPC UA components or Information Models.*
 
 - [OPC UA NodeSet Validator](https://apps.opcfoundation.org/NodeSetValidator/) - Check NodeSet XML Files against Word Documents following the OPC Foundation Specification Template.
-- [OPC UANodeSet WebViewer](https://github.com/barnstee/UANodesetWebViewer) - Make the XML NodeSets browsable.
+- [OPC UA NodeSet Web Viewer](https://nodesetviewer.umati.app/) - Make the XML NodeSets browsable ([Source](https://github.com/barnstee/UANodesetWebViewer)).
 
 ## Server Simulations
 
