@@ -232,8 +232,9 @@ _Implementations of server and client applications and other examples._
 - [OPCUA2AAS](https://github.com/barnstee/OPCUA2AAS) - OPC UA Server that can generate an Industry 4.0 Asset Admin Shell from its info model.
 - [MQTTPublisherMVP](https://github.com/barnstee/MQTTPublisherMVP) - Minimum Viable Product for an MQTT-based OPC UA PubSub Publisher for industrial cloud telemetry.
 - [umati Dashboard](https://umati.app) - umati community online dashboard - [Specification](https://showcase.umati.org)
-- [umati Sample Server](https://github.com/umati/Sample-Server) based on open62541
-- [umati Sample Server 2](https://github.com/umati/Sample-Server-asyncio) based on [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio)
+- [umati Sample Server](https://github.com/umati/Sample-Server) based on open62541 [MPL-2.0]
+- [umati Sample Server 2](https://github.com/umati/Sample-Server-asyncio) based on [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) [APL-2.0]
+- [OPCModbusUAServer](https://github.com/BoBiene/OPCModbusUAServer) - An open source OPC UA server for Modbus TCP devices [MIT]
 
 ## Gateways (OPC Classic)
 
