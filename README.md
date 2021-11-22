@@ -62,8 +62,10 @@ _Released OPC UA Specifications._
 _Information material available online._
 
 - [OPC Foundation Online Reference](https://reference.opcfoundation.org/v104/)
-- [OPC Foundation UA Profile Reporting Visualization Tool](https://apps.opcfoundation.org/ProfileReporting/index.htm) - Overview of OPC UA Profiles.
-- [OPC Foundation UA Profile Reporting Visualization Tool with drafts](https://apps.opcfoundation.org/ProfileReporting/index.htm?All=true) - Same as above including (stable) drafts.
+- [OPC UA Profile Reporting Application
+](https://profiles.opcfoundation.org/) - UA 1.05 forward
+- `deprecated` [OPC Foundation UA Profile Reporting Visualization Tool](https://profiles-old.opcfoundation.org/) - Overview of OPC UA Profiles.
+- `deprecated` [OPC Foundation UA Profile Reporting Visualization Tool with drafts](https://profiles-old.opcfoundation.org/v104/reporting/?All=true) - Same as above including (stable) drafts.
 - [OPC Foundation Templates](https://opcfoundation.org/Guidelines-And-Templates/) - Templates for (joint) working groups. Including MS Visio shapes for OPC UA.
 - [OPC Foundation OPC UA Wiki](http://wiki.opcfoundation.org/index.php?title=Main_Page) - OPC UA Wiki of the OPC Foundation. **Not up to the latest specification state!**
 - [OPC Foundation Information Modelling Best Practices](https://opcfoundation.org/wp-content/uploads/2020/09/OPC-11030-Whitepaper-UA-Modeling-Best-Practices-1.00.00.pdf) - Whitepaper intended to provide best practices while creating OPC UA information models.
