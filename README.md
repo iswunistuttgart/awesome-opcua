@@ -8,7 +8,7 @@ Open Platform Communications Unified Architecture (OPC UA) is the data exchange 
 
 For a brief introduction to OPC UA, check the [What is OPC? UA in a Minute](https://www.youtube.com/watch?v=-tDGzwsBokY).
 
-See the [official OPC Foundation website](https://opcfoundation.org/about/opc-technologies/opc-ua/) for the official specifications and more information about the OPC UA standard.
+See the [official OPC Foundation site](https://opcfoundation.org/about/opc-technologies/opc-ua/) for the official specifications and more information about the OPC UA standard.
 
 ## Contents
 
@@ -24,7 +24,7 @@ See the [official OPC Foundation website](https://opcfoundation.org/about/opc-te
         - [C](#c)
         - [C++](#c-1)
         - [C#](#c-2)
-        - [JavaScript](#javascript)
+        - [JavaScript/TypeScript](#javascript)
         - [Java](#java)
         - [MATLAB](#matlab)
         - [NuGet Packages](#nuget-packages)
@@ -50,8 +50,8 @@ _Released OPC UA Specifications._
 
 - [OPC Unified Architecture Specification](https://opcfoundation.org/developer-tools/specifications-unified-architecture) - OPC UA Specification published by the OPC Foundation. Needs registration for download.
 - [OPC UA Information Models](https://opcfoundation.org/developer-tools/specifications-opc-ua-information-models) - OPC UA Companion Specifications released by the OPC Foundation. Needs registration for download.
-- [OPC Foundation Git Repo of NodeSets](https://github.com/OPCFoundation/UA-Nodeset) - easy way to get the nodeset files without registration
-- [OPC UA Online Reference](https://reference.opcfoundation.org/v104/) - Online versions of OPC UA specifications and information models. Harder to read than the pdf versions due to each chapter being a separate site. Search function over all parts of the standard and the information models.
+- [OPC Foundation Git repository of NodeSets](https://github.com/OPCFoundation/UA-Nodeset) - easy way to get the nodeset files without registration
+- [OPC UA Online Reference](https://reference.opcfoundation.org/) - Online versions of OPC UA specifications and information models. Harder to read than the PDF versions due to each chapter being a separate site. Search function over all parts of the standard and the information models.
 
 ## Resources
 
@@ -61,7 +61,7 @@ _Released OPC UA Specifications._
 
 _Information material available online._
 
-- [OPC Foundation Online Reference](https://reference.opcfoundation.org/v104/)
+- [OPC Foundation Online Reference](https://reference.opcfoundation.org/)
 - [OPC UA Profile Reporting Application
 ](https://profiles.opcfoundation.org/) - UA 1.05 forward
 - `deprecated` [OPC Foundation UA Profile Reporting Visualization Tool](https://profiles-old.opcfoundation.org/) - Overview of OPC UA Profiles.
@@ -98,8 +98,9 @@ Compare different implementations for OPC UA
 - [Tech-Intro "OPC UA Concepts" by Uwe Steinkrauss (06-2019)](https://www.youtube.com/watch?v=E2XJfmAEdqw) - A 10 minutes technical introduction to OPC UA basic concepts.
 - [20200622 02 OPC UA Technology](https://www.youtube.com/watch?v=OQC_kVYisS8)  - 20 min Introduction into OPC UA (OPC UA Day 2020)
 - [OPC UA Security Deep Dive by Randy Armstrong (Chair of OPC UA Security Working Group), Dec 2020](https://www.youtube.com/watch?v=pa82WydVtPY)
-- [Creating Information Model and OPC UA Server Using NET - Industry40tv](https://www.youtube.com/watch?v=gxA7SDNLHgc) 
+- [Creating Information Model and OPC UA Server Using NET - Industry40tv](https://www.youtube.com/watch?v=gxA7SDNLHgc)
 - [YouTube Channel of the OPC Foundation](https://www.youtube.com/user/TheOPCFoundation)
+- [OPC UA for Machine Tools YT Channel](https://youtube.com/playlist?list=PLkiLpeY1YPH1gEtEV7jmX9D8XPUEfS5EF)
 
 ## Software
 
@@ -146,7 +147,7 @@ _SDKs to create OPC UA components._
 
 #### JavaScript / TypeScript
 
-- [node-opcua](http://node-opcua.github.io/) - Server/Client - NodeOPCUA is a OPC UA stack fully written in TypeScript for NodeJS. [MIT]
+- [node-opcua](http://node-opcua.github.io/) - Server/Client - NodeOPCUA is a OPC UA stack fully written in TypeScript for Node.js. [MIT]
 - [node-red-contrib-opcua](https://flows.nodered.org/node/node-red-contrib-opcua) - Node-Red Plugin for OPC UA (Server/Client)
 - [HBM/opcua](https://github.com/HBM/opcua) - only Client
 
@@ -158,7 +159,7 @@ _SDKs to create OPC UA components._
 
 #### MATLAB
 
-- [OPC Toolbox](https://www.mathworks.com/help/opc/index.html) - MATLAB official toolbox that supports OPC UA. See <https://www.mathworks.com/discovery/opc-ua.html> for more details. [Commercial]
+- [OPC Toolbox](https://www.mathworks.com/help/opc/index.html) - MATLAB official toolbox that supports OPC UA. See [Mathworks site](https://www.mathworks.com/discovery/opc-ua.html) for more details. [Commercial]
 
 #### NuGet Packages
 
@@ -210,11 +211,12 @@ _Tools to create OPC UA Information Models._
 *Tools available online to help with OPC UA components or Information Models.*
 
 - [OPC UA NodeSet Validator](https://apps.opcfoundation.org/NodeSetValidator/) - Check NodeSet XML Files against Word Documents following the OPC Foundation Specification Template.
-- [OPC UA NodeSet Web Viewer](https://nodesetviewer.umati.app/) - Make the XML NodeSets browsable ([Source](https://github.com/barnstee/UANodesetWebViewer)).
+- [OPC UA NodeSet Web Viewer](https://nodesetviewer.umati.app/) - Make the XML NodeSets browsable ([Source](https://github.com/digitaltwinconsortium/UANodesetWebViewer)).
+- [OPC UA for Cloud Library](https://uacloudlibrary.opcfoundation.org/) - OPC UA Information Model database with a REST and GraphQL interface ([Source](https://github.com/OPCFoundation/UA-CloudLibrary))
 
 ## Server Simulations
 
-*Implementations of Example, Simulation and SampleServer that are running on the Internet or can be run local.*
+*Implementations of Example, Simulation and SampleServer that are running on the internet or can be run local.*
 
 - [OPC UA Player](https://github.com/MileBuurmeijer/OPCUA-Player) -  supports replaying OPC UA data from a data file
 - [OPC UA Simulation Server](https://www.prosysopc.com/products/opc-ua-simulation-server/) - free (professional Edition can import own information model)
@@ -229,14 +231,14 @@ _Tools to create OPC UA Information Models._
 _Implementations of server and client applications and other examples._
 
 - [OpcUaWebDashboard](https://github.com/barnstee/OpcUaWebDashboard) - A cloud-based, dockerized dashboard for displaying OPC UA PubSub telemetry data, read directly from an Azure IoT Hub.
-- [UA-CloudLibrary](https://github.com/barnstee/UA-CloudLibrary) - Swagger prototype by @branstee for the OPC UA for Cloud Library OPC-Foundation JWG
+- [UA-CloudLibrary](https://github.com/OPCFoundation/UA-CloudLibrary) - The reference implementation of the UA Cloud Library
 - [CloudLib GraphQL](https://github.com/cesmii/CloudLib) - CloudLib GraphQL Prototype by CESMII for the OPC UA for Cloud Library OPC-Foundation JWG
-- [UA-CloudLibrary](https://github.com/OPCF-Members/UA-CloudLibrary) - Reference implememtation UA-CloudLibrary **REMARK: OPC-F members only for now**
 - [OPCUA2AAS](https://github.com/barnstee/OPCUA2AAS) - OPC UA Server that can generate an Industry 4.0 Asset Admin Shell from its info model.
 - [MQTTPublisherMVP](https://github.com/barnstee/MQTTPublisherMVP) - Minimum Viable Product for an MQTT-based OPC UA PubSub Publisher for industrial cloud telemetry.
 - [umati Dashboard](https://umati.app) - umati community online dashboard - [Specification](https://showcase.umati.org)
-- [umati Sample Server](https://github.com/umati/Sample-Server) based on open62541 [MPL-2.0]
+- [umati Sample Server](https://github.com/umati/Sample-Server) based on [open62541](https://github.com/open62541/open62541) [MPL-2.0]
 - [umati Sample Server 2](https://github.com/umati/Sample-Server-asyncio) based on [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) [APL-2.0]
+- [umati Sample Server 3](https://github.com/umati/SampleServer-node-opcua) based on [node-opcua](http://node-opcua.github.io/) [APL-2.0]
 - [OPCModbusUAServer](https://github.com/BoBiene/OPCModbusUAServer) - An open source OPC UA server for Modbus TCP devices [MIT]
 
 ## Gateways (OPC Classic)
