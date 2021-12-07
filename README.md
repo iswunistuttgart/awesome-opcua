@@ -101,6 +101,7 @@ Compare different implementations for OPC UA
 - [Creating Information Model and OPC UA Server Using NET - Industry40tv](https://www.youtube.com/watch?v=gxA7SDNLHgc)
 - [YouTube Channel of the OPC Foundation](https://www.youtube.com/user/TheOPCFoundation)
 - [OPC UA for Machine Tools YT Channel](https://youtube.com/playlist?list=PLkiLpeY1YPH1gEtEV7jmX9D8XPUEfS5EF)
+- [OPC UA PubSub Explained, Jouni Aro (Prosys OPC), OPC Day Finland 2021](https://www.youtube.com/watch?v=FWtrruzOvr4&list=PL98upRG1ESZSMFf18NK-OMFxNYWrIdHDU&index=14)
 
 ## Software
 
