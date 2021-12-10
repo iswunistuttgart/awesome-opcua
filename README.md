@@ -35,7 +35,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
       - [Test Clients](#test-clients)
       - [Modelling Tools](#modelling-tools)
       - [Online Tools](#online-tools)
-      - [SimulationServer](#SimulationServer)
+      - [SimulationServer](#server-simulations)
       - [Server and Client examples](#Server-and-client-applications)
     - [Gateways (OPC Classic)](#Gateways (OPC Classic))
     - [Community](#community)
