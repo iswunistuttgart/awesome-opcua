@@ -180,6 +180,7 @@ _SDKs to create OPC UA components._
 #### Golang
 
 - [gopcua/opcua](https://github.com/gopcua/opcua) - Server/Client - A native Go implementation of the OPC/UA Binary Protocol.
+- [awcullen/opcua](https://github.com/awcullen/opcua) - Server/Client. [MIT]
 
 #### Delphi
 
