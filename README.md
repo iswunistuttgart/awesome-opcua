@@ -242,6 +242,7 @@ _Implementations of server and client applications and other examples._
 - [umati Sample Server 2](https://github.com/umati/Sample-Server-asyncio) based on [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) [APL-2.0]
 - [umati Sample Server 3](https://github.com/umati/SampleServer-node-opcua) based on [node-opcua](http://node-opcua.github.io/) [APL-2.0]
 - [OPCModbusUAServer](https://github.com/BoBiene/OPCModbusUAServer) - An open source OPC UA server for Modbus TCP devices [MIT]
+- [OPC Router Docker Sample](https://github.com/OPC-Router/opc-ua-umati-mssql-grafana) - A very easy to use sample showcasing data transfers from a umati server to a SQL database.
 
 ## Gateways (OPC Classic)
 
