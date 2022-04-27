@@ -254,6 +254,7 @@ coming soon
 - [Stack Overflow](https://stackoverflow.com/tags/opc-ua) - Questions related to OPC UA in Stack Overflow.
 - [OPC Foundation Twitter](https://twitter.com/OPCFoundation) - Official OPC Foundation account that shares update about the OPC UA standard.
 - [OPC Foundation Podcast](https://opcfoundation.org/resources/podcast/) - Official OPC Foundation podcast that gives insight into the OPC UA technology, applications in different industries and answers questions from the audience.
+- [OPC Foundation Ebooks](https://opcfoundation.org/resources/ebooks/) - Information about OPC UA technology and applications in different industries as contributions by various authors.
 
 ## Related Lists
 
