@@ -32,6 +32,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
         - [Rust](#rust)
         - [Golang](#golang)
         - [Delphi](#delphi)
+      - [Cloud](#cloud)
       - [Test Clients](#test-clients)
       - [Modelling Tools](#modelling-tools)
       - [Online Tools](#online-tools)
@@ -187,6 +188,10 @@ _SDKs to create OPC UA components._
 - [Sentrol SDK for Delphi](https://www.prosysopc.com/products/opc-ua-sentrol-sdk/) - Server/Client proprietary (Prosys) [Commercial]
 - [Unified Automation Delphi SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary [Commercial]
 
+### Cloud
+
+- [OPC UA with Akri](https://docs.akri.sh/discovery-handlers/opc-ua) - A Kubernetes Resource Interface for OPC UA [Apache-2.0]
+
 ### Test Clients
 
 _Test Clients to check server implementations manually._
@@ -244,6 +249,7 @@ _Implementations of server and client applications and other examples._
 - [umati Sample Server 3](https://github.com/umati/SampleServer-node-opcua) based on [node-opcua](http://node-opcua.github.io/) [APL-2.0]
 - [OPCModbusUAServer](https://github.com/BoBiene/OPCModbusUAServer) - An open source OPC UA server for Modbus TCP devices [MIT]
 - [OPC Router Docker Sample](https://github.com/OPC-Router/opc-ua-umati-mssql-grafana) - A very easy to use sample showcasing data transfers from a umati server to a SQL database.
+- [OPC UA Thermometer with Akri](https://docs.akri.sh/demos/opc-thermometer-demo) - A demo of Akri - Discovering and Using OPC UA Thermometers
 
 ## Gateways (OPC Classic)
 
