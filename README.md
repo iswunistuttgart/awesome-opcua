@@ -49,6 +49,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
 
 _Released OPC UA Specifications._
 
+- [OPC Foundation Documents Overview](https://opcfoundation.org/developer-tools/documents/) - All Documents (Specification, Templates, Guidelines) published by the OPC Foundation
 - [OPC Unified Architecture Specification](https://opcfoundation.org/developer-tools/specifications-unified-architecture) - OPC UA Specification published by the OPC Foundation. Needs registration for download.
 - [OPC UA Information Models](https://opcfoundation.org/developer-tools/specifications-opc-ua-information-models) - OPC UA Companion Specifications released by the OPC Foundation. Needs registration for download.
 - [OPC Foundation Git repository of NodeSets](https://github.com/OPCFoundation/UA-Nodeset) - easy way to get the nodeset files without registration
