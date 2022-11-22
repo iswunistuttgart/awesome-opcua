@@ -220,7 +220,7 @@ _Tools to create OPC UA Information Models._
 *Tools available online to help with OPC UA components or Information Models.*
 
 - [OPC UA NodeSet Validator](https://apps.opcfoundation.org/NodeSetValidator/) - Check NodeSet XML Files against Word Documents following the OPC Foundation Specification Template.
-- [OPC UA NodeSet Web Viewer](https://nodesetviewer.umati.app/) - Make the XML NodeSets browsable ([Source](https://github.com/digitaltwinconsortium/UANodesetWebViewer)).
+- [OPC UA CloudViewer](https://cloudviewer.umati.app/) - Make the XML NodeSets browsable, by DigitalTwinConsortium ([Source](https://github.com/digitaltwinconsortium/UA-CloudViewer)).
 - [OPC UA for Cloud Library](https://uacloudlibrary.opcfoundation.org/) - OPC UA Information Model database with a REST and GraphQL interface ([Source](https://github.com/OPCFoundation/UA-CloudLibrary))
 
 ## Server Simulations
