@@ -253,6 +253,7 @@ _Implementations of server and client applications and other examples._
 - [OPC UA Thermometer with Akri](https://docs.akri.sh/demos/opc-thermometer-demo) - A demo of Akri - Discovering and Using OPC UA Thermometers
 - [OPC UA Transformer](https://github.com/alw-iwu/opcua-transformer) - Transforms OPC UA Server address space into RDF data structure [APL-2.0]
 - [OPC UA for Joining Systems](https://github.com/umati/UA-for-Industrial-Joining-Technologies) - Test clients and servers based on OPC UA for Joining Systems developed by VDMA Industrial Joining Technologies working group.
+- [OPC UA primer](https://github.com/ntd/opcua-primer) - A sample OPC UA server based on `open62541` and on a model design XML.
 
 ## Gateways (OPC Classic)
 
