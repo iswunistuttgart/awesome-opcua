@@ -172,7 +172,7 @@ _SDKs to create OPC UA components._
 #### Python
 
 - [uaf](https://github.com/uaf/uaf) - Client (wrapper over proprietary sdk)
-- [Python FreeOpcUa](https://github.com/FreeOpcUa/python-opcua)  - Server /Client
+- `deprecated`[Python FreeOpcUa](https://github.com/FreeOpcUa/python-opcua) - Server /Client
 - [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) - OPC UA / IEC 62541 Client and Server for Python >= 3.7 and pypy3. [LGPL-3.0]
 
 #### Rust
