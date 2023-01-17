@@ -37,8 +37,8 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
       - [Modelling Tools](#modelling-tools)
       - [Online Tools](#online-tools)
       - [SimulationServer](#server-simulations)
-      - [Server and Client examples](#Server-and-client-applications)
-    - [Gateways (OPC Classic)](#Gateways (OPC Classic))
+      - [Server and Client examples](#server-and-client-applications)
+    - [Gateways (OPC Classic)](#gateways (OPC Classic))
     - [Community](#community)
     - [Related Lists](#related-lists)
     - [Tutorials](#tutorials)
@@ -57,7 +57,7 @@ _Released OPC UA Specifications._
 
 ## Resources
 
-*Information material apart from the standards documents.*
+_Information material apart from the standards documents._
 
 ### Online Resources
 
@@ -81,7 +81,7 @@ _Information material available online._
 
 _Books about OPC UA._
 
-- *Wolfgang Mahnke, Stefan-Helmut Leitner, Matthias Damm*, OPC Unified Architecture. *Springer; 2009*, ISBN: 978-3540688983.
+- _Wolfgang Mahnke, Stefan-Helmut Leitner, Matthias Damm_, OPC Unified Architecture. _Springer; 2009_, ISBN: 978-3540688983.
 - Etienne Rossignon, [node-opcua by example](https://leanpub.com/node-opcuabyexample)  
 
 ### Articles
@@ -217,7 +217,7 @@ _Tools to create OPC UA Information Models._
 
 ### Online Tools
 
-*Tools available online to help with OPC UA components or Information Models.*
+_Tools available online to help with OPC UA components or Information Models._
 
 - [OPC UA NodeSet Validator](https://apps.opcfoundation.org/NodeSetValidator/) - Check NodeSet XML Files against Word Documents following the OPC Foundation Specification Template.
 - [OPC UA CloudViewer](https://cloudviewer.umati.app/) - Make the XML NodeSets browsable, by DigitalTwinConsortium ([Source](https://github.com/digitaltwinconsortium/UA-CloudViewer)).
@@ -225,7 +225,7 @@ _Tools to create OPC UA Information Models._
 
 ## Server Simulations
 
-*Implementations of Example, Simulation and SampleServer that are running on the internet or can be run local.*
+_Implementations of Example, Simulation and SampleServer that are running on the internet or can be run local._
 
 - [OPC UA Player](https://github.com/MileBuurmeijer/OPCUA-Player) -  supports replaying OPC UA data from a data file
 - [OPC UA Simulation Server](https://www.prosysopc.com/products/opc-ua-simulation-server/) - free (professional Edition can import own information model)
@@ -254,6 +254,7 @@ _Implementations of server and client applications and other examples._
 - [OPC UA Transformer](https://github.com/alw-iwu/opcua-transformer) - Transforms OPC UA Server address space into RDF data structure [APL-2.0]
 - [OPC UA for Joining Systems](https://github.com/umati/UA-for-Industrial-Joining-Technologies) - Test clients and servers based on OPC UA for Joining Systems developed by VDMA Industrial Joining Technologies working group.
 - [OPC UA primer](https://github.com/ntd/opcua-primer) - A sample OPC UA server based on `open62541` and on a model design XML.
+- [opcua-skills/plug-and-produce](https://github.com/opcua-skills/plug-and-produce) - Plug-and-Produce System Architecture for Robotic Applications using OPC UA
 
 ## Gateways (OPC Classic)
 
