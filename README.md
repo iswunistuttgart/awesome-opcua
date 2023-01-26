@@ -239,22 +239,23 @@ _Implementations of Example, Simulation and SampleServer that are running on the
 
 _Implementations of server and client applications and other examples._
 
-- [OpcUaWebDashboard](https://github.com/barnstee/OpcUaWebDashboard) - A cloud-based, dockerized dashboard for displaying OPC UA PubSub telemetry data, read directly from an Azure IoT Hub.
-- [UA-CloudLibrary](https://github.com/OPCFoundation/UA-CloudLibrary) - The reference implementation of the UA Cloud Library
-- [CloudLib GraphQL](https://github.com/cesmii/CloudLib) - CloudLib GraphQL Prototype by CESMII for the OPC UA for Cloud Library OPC-Foundation JWG
-- [OPCUA2AAS](https://github.com/barnstee/OPCUA2AAS) - OPC UA Server that can generate an Industry 4.0 Asset Admin Shell from its info model.
-- [MQTTPublisherMVP](https://github.com/barnstee/MQTTPublisherMVP) - Minimum Viable Product for an MQTT-based OPC UA PubSub Publisher for industrial cloud telemetry.
+- [UA-CloudDashboard](https://github.com/barnstee/UA-CloudDashboard) - A cloud-based, dockerized dashboard for displaying OPC UA PubSub telemetry data, read directly from an Azure IoT Hub. [MIT]
+- [UA-CloudLibrary](https://github.com/OPCFoundation/UA-CloudLibrary) - The reference implementation of the UA Cloud Library [MIT]
+- [CloudLib GraphQL](https://github.com/cesmii/CloudLib) - CloudLib GraphQL Prototype by CESMII for the OPC UA for Cloud Library OPC-Foundation JWG [proprietary]
+- [OPCUA2AAS](https://github.com/barnstee/OPCUA2AAS) - OPC UA Server that can generate an Industry 4.0 Asset Admin Shell from its info model. [MIT]
+- [MQTTPublisherMVP](https://github.com/barnstee/MQTTPublisherMVP) - Minimum Viable Product for an MQTT-based OPC UA PubSub Publisher for industrial cloud telemetry. [MIT]
 - [umati Dashboard](https://umati.app) - umati community online dashboard - [Specification](https://showcase.umati.org)
 - [umati Sample Server](https://github.com/umati/Sample-Server) based on [open62541](https://github.com/open62541/open62541) [MPL-2.0]
 - [umati Sample Server 2](https://github.com/umati/Sample-Server-asyncio) based on [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) [APL-2.0]
 - [umati Sample Server 3](https://github.com/umati/SampleServer-node-opcua) based on [node-opcua](http://node-opcua.github.io/) [APL-2.0]
 - [OPCModbusUAServer](https://github.com/BoBiene/OPCModbusUAServer) - An open source OPC UA server for Modbus TCP devices [MIT]
 - [OPC Router Docker Sample](https://github.com/OPC-Router/opc-ua-umati-mssql-grafana) - A very easy to use sample showcasing data transfers from a umati server to a SQL database.
-- [OPC UA Thermometer with Akri](https://docs.akri.sh/demos/opc-thermometer-demo) - A demo of Akri - Discovering and Using OPC UA Thermometers
+- [OPC UA Thermometer with Akri](https://docs.akri.sh/demos/opc-thermometer-demo) - A demo of Akri - Discovering and Using OPC UA Thermometers [APL-2.0]
 - [OPC UA Transformer](https://github.com/alw-iwu/opcua-transformer) - Transforms OPC UA Server address space into RDF data structure [APL-2.0]
-- [OPC UA for Joining Systems](https://github.com/umati/UA-for-Industrial-Joining-Technologies) - Test clients and servers based on OPC UA for Joining Systems developed by VDMA Industrial Joining Technologies working group.
-- [OPC UA primer](https://github.com/ntd/opcua-primer) - A sample OPC UA server based on `open62541` and on a model design XML.
-- [opcua-skills/plug-and-produce](https://github.com/opcua-skills/plug-and-produce) - Plug-and-Produce System Architecture for Robotic Applications using OPC UA
+- [OPC UA for Joining Systems](https://github.com/umati/UA-for-Industrial-Joining-Technologies) - Test clients and servers based on OPC UA for Joining Systems developed by VDMA Industrial Joining Technologies working group. [APL-2.0]
+- [OPC UA primer](https://github.com/ntd/opcua-primer) - A sample OPC UA server based on `open62541` and on a model design XML. [MIT]
+- [opcua-skills/plug-and-produce](https://github.com/opcua-skills/plug-and-produce) - Plug-and-Produce System Architecture for Robotic Applications using OPC UA [proprietary]
+- [convertersystems/opc-ua-samples](https://github.com/convertersystems/opc-ua-samples) - Sample HMIs using OPC Unified Architecture (OPC UA) and Visual Studio. [MIT]
 
 ## Gateways (OPC Classic)
 
