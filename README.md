@@ -233,7 +233,7 @@ _Implementations of Example, Simulation and SampleServer that are running on the
 - `opc.tcp://opcua.umati.app:4840` - [umati Demo Server](https://github.com/umati/Sample-Server) implementing different umati endorsed companion specifications
 - `opc.tcp://opcua2.umati.app:4840` - [umati Demo Server 2](https://github.com/umati/Sample-Server-asyncio) implementing different umati endorsed companion specifications
 - `opc.tcp://milo.digitalpetri.com:62541/milo` - [Demo Server](https://github.com/eclipse/milo#public-demo-server) based on eclipse/milo
-- Azure OPC UA Sample(https://github.com/Azure-Samples/iot-edge-opc-plc) - sample server in c# 
+- [Azure OPC UA Sample](https://github.com/Azure-Samples/iot-edge-opc-plc) - sample server in c# 
 - [List of publicly availavle OPC UA Servers and Clients](https://github.com/node-opcua/node-opcua/wiki/publicly-available-OPC-UA-Servers-and-Clients)
 
 ## Server and client applications
