@@ -141,6 +141,7 @@ _SDKs to create OPC UA components._
 - [UACL/CS](Client/Server (wrapper over proprietary sdk)) - Client/Server (wrapper over proprietary sdk)
 - [opc-ua-client](https://github.com/convertersystems/opc-ua-client)-  only Client
 - [LibUA](https://github.com/nauful/LibUA) - Server/Client
+- [h-opc](https://github.com/hylasoft-usa/h-opc) - OPC client made simpler, for UA and DA
 - [Träger](https://opcua.traeger.de/) - Server/Client [Commercial]
 - [dataFeed OPC UA](https://data-intelligence.softing.com/de/produkte/datafeed-opc-sdks/datafeed-opc-ua-net-standard-sdks/) - Server/Client (Softing) [Commercial]
 - [QuickOPC](https://www.opclabs.com/products/quickopc) - Client (OPC Labs)
