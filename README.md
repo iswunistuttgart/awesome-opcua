@@ -24,7 +24,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
         - [C](#c)
         - [C++](#c-1)
         - [C#](#c-2)
-        - [JavaScript/TypeScript](#javascript)
+        - [JavaScript/TypeScript](#javascript--typescript)
         - [Java](#java)
         - [MATLAB](#matlab)
         - [NuGet Packages](#nuget-packages)
