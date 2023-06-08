@@ -82,7 +82,7 @@ _Information material available online._
 _Books about OPC UA._
 
 - _Wolfgang Mahnke, Stefan-Helmut Leitner, Matthias Damm_, OPC Unified Architecture. _Springer; 2009_, ISBN: 978-3540688983.
-- Etienne Rossignon, [node-opcua by example](https://leanpub.com/node-opcuabyexample)  
+- Etienne Rossignon, [NodeOPCUA by example - edition 2022](https://leanpub.com/node-opcuabyexample-edition2022)
 
 ### Articles
 
