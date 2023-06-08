@@ -212,6 +212,7 @@ _Tools to create OPC UA Information Models._
 - [UAModeler](https://www.unified-automation.com/products/development-tools/uamodeler.html) - Modeling Tool by Unified Automation. [Commercial]
 - [OPC UA Modeler](https://www.prosysopc.com/products/opc-ua-modeler/) - Modeling Tool by Prosys [Commercial]
 - [SiOME](https://support.industry.siemens.com/cs/document/109755133/siemens-opc-ua-modeling-editor-%28siome%29-for-implementing-opc-ua-companion-specifications?dti=0&lc=en-WW) - Modeling Tool by Siemens [Commercial]
+- [Sterfive's LowCode Modeler](https://www.sterfive.com/product/modeler/) - Low code tool to generate compliant OPCUA Model with ease, provide a single source of truth for your model, the doc and the nodeset2.xml) [Commercial] [Free evaluation]
 - [UA-ModelCompiler](https://github.com/OPCFoundation/UA-ModelCompiler) - Tool to convert OPC UA Information models in Model.xml format to NodeSet2.xml Format. [MIT]
 - [UML2OPCUA](https://github.com/model-UA/papyrus-opcua-plugin) - Papyrus plugin to model OPC UA Information models with Papyrus
 - `deprecated` [FreeOpcUa/opcua-modeler](https://github.com/FreeOpcUa/opcua-modeler) - Free OPC UA Modeler is a tool for designing OPC UA address spaces [GPL-3.0]
