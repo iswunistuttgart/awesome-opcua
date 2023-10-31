@@ -204,6 +204,7 @@ _Test Clients to check server implementations manually._
 - [Prosys OPC UA Monitor](https://www.prosysopc.com/products/opc-ua-monitor/) - HMI Tool  (Evaluation for Free)
 - [OPC UA Browser](https://www.prosysopc.com/products/opc-ua-browser/) - Demo Client developed by Prosys (free evaluation license).
 - [OPC UA Test tool](https://github.com/matkonnerth/opcuatesttool) - Automate OPC UA server performance testing
+- [https://opalopc.com/](https://opalopc.com/) - A vulnerability scanner for OPC UA applications.
 
 ### Modelling Tools
 
