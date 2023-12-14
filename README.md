@@ -19,6 +19,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
       - [Books](#books)
       - [Articles](#Articles)
       - [Videos](#Videos)
+      - [Podcasts](#podcasts)
     - [Software](#software)
       - [SDKs and Libraries](#sdks-and-libraries)
         - [C](#c)
@@ -104,6 +105,9 @@ Compare different implementations for OPC UA
 - [YouTube Channel of the OPC Foundation](https://www.youtube.com/user/TheOPCFoundation)
 - [OPC UA for Machine Tools YT Channel](https://youtube.com/playlist?list=PLkiLpeY1YPH1gEtEV7jmX9D8XPUEfS5EF)
 - [OPC UA PubSub Explained, Jouni Aro (Prosys OPC), OPC Day Finland 2021](https://www.youtube.com/watch?v=FWtrruzOvr4&list=PL98upRG1ESZSMFf18NK-OMFxNYWrIdHDU&index=14)
+
+### Podcasts
+ - [OPC UA (OPC Unified Architecture) | Einfach Komplex Episode 17, May 2023](https://podcasters.spotify.com/pod/show/einfach-komplex/episodes/17-OPC-UA-OPC-Unified-Architecture--Industriestandard-zur-Datenkommunikation--Automatisierung--IoT-e238kj3) - (German) A 45min podcast about basic concepts, industry applications and comparison to MQTT
 
 ## Software
 
