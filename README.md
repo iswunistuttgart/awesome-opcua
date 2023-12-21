@@ -107,7 +107,8 @@ Compare different implementations for OPC UA
 - [OPC UA PubSub Explained, Jouni Aro (Prosys OPC), OPC Day Finland 2021](https://www.youtube.com/watch?v=FWtrruzOvr4&list=PL98upRG1ESZSMFf18NK-OMFxNYWrIdHDU&index=14)
 
 ### Podcasts
- - [OPC UA (OPC Unified Architecture) | Einfach Komplex Episode 17, May 2023](https://podcasters.spotify.com/pod/show/einfach-komplex/episodes/17-OPC-UA-OPC-Unified-Architecture--Industriestandard-zur-Datenkommunikation--Automatisierung--IoT-e238kj3) - (German) A 45min podcast about basic concepts, industry applications and comparison to MQTT
+- [OPC Foundation Podcast](https://opcfoundation.org/resources/podcast/) - Official OPC Foundation podcast that gives insight into the OPC UA technology, applications in different industries and answers questions from the audience.
+- [OPC UA (OPC Unified Architecture) | Einfach Komplex Episode 17, May 2023](https://podcasters.spotify.com/pod/show/einfach-komplex/episodes/17-OPC-UA-OPC-Unified-Architecture--Industriestandard-zur-Datenkommunikation--Automatisierung--IoT-e238kj3) - (German) A 45min podcast about basic concepts, industry applications and comparison to MQTT
 
 ## Software
 
@@ -274,7 +275,6 @@ coming soon
 
 - [Stack Overflow](https://stackoverflow.com/tags/opc-ua) - Questions related to OPC UA in Stack Overflow.
 - [OPC Foundation Twitter](https://twitter.com/OPCFoundation) - Official OPC Foundation account that shares update about the OPC UA standard.
-- [OPC Foundation Podcast](https://opcfoundation.org/resources/podcast/) - Official OPC Foundation podcast that gives insight into the OPC UA technology, applications in different industries and answers questions from the audience.
 - [OPC Foundation Ebooks](https://opcfoundation.org/resources/ebooks/) - Information about OPC UA technology and applications in different industries as contributions by various authors.
 
 ## Related Lists
