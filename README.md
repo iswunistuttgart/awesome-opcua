@@ -134,6 +134,7 @@ _SDKs to create OPC UA components._
 - [QtOPCUA](https://doc.qt.io/QtOPCUA/index.html) - Qt module that implements a Qt API to interact with OPC UA. [LGPL-3.0]
 - [QUaServer](https://github.com/juangburgos/QUaServer) -  Qt C++ wrapper for open62541 server stack. [MIT]
 - [ASNeG OPC UA Stack](https://asneg.github.io/projects/opcuastack) - Open source C++ framework for development and distribution of OPC UA client\server applications. [Apache-2.0]
+- [open62541pp](https://open62541pp.github.io/open62541pp/) - C++ wrapper of the open62541 OPC UA library. [MPL-2.0]
 
 #### C\#
 
