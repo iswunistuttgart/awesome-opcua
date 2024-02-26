@@ -154,6 +154,7 @@ _SDKs to create OPC UA components._
 
 - [node-opcua](http://node-opcua.github.io/) - Server/Client - NodeOPCUA is then OPC SDK UA stack fully written in TypeScript for Node.js. [MIT]
 - [node-red-contrib-opcua](https://flows.nodered.org/node/node-red-contrib-opcua) - Node-Red Plugin for OPC UA (Server/Client)
+- [@opcua/for-node-red](https://flows.nodered.org/node/@opcua/for-node-red) - Professional OPCUA for NodeRED (Commercial)
 - [HBM/opcua](https://github.com/HBM/opcua) - only Client
 
 #### Java
