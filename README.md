@@ -12,13 +12,13 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
 
 ## Contents
 
-- [Awesome OPC UA](#awesome-opcua)
+- [Awesome OPC UA](#awesome-opc-ua-)
   - [OPC UA Standards Documents](#opc-ua-standards-documents)
     - [Resources](#resources)
       - [Online Resources](#online-resources)
       - [Books](#books)
-      - [Articles](#Articles)
-      - [Videos](#Videos)
+      - [Articles](#articles)
+      - [Videos](#videos)
     - [Software](#software)
       - [SDKs and Libraries](#sdks-and-libraries)
         - [C](#c)
@@ -38,7 +38,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
       - [Online Tools](#online-tools)
       - [SimulationServer](#server-simulations)
       - [Server and Client examples](#server-and-client-applications)
-    - [Gateways (OPC Classic)](#gateways (OPC Classic))
+    - [Gateways (OPC Classic)](#gateways-opc-classic)
     - [Community](#community)
     - [Related Lists](#related-lists)
     - [Tutorials](#tutorials)
@@ -164,7 +164,7 @@ _SDKs to create OPC UA components._
 
 #### MATLAB
 
-- [OPC Toolbox](https://www.mathworks.com/help/opc/index.html) - MATLAB official toolbox that supports OPC UA. See [Mathworks site](https://www.mathworks.com/discovery/opc-ua.html) for more details. [Commercial]
+- [OPC Toolbox](https://www.mathworks.com/products/industrial-communication.html) - MATLAB official toolbox that supports OPC UA. See [Mathworks site](https://www.mathworks.com/discovery/opc-ua.html) for more details. [Commercial]
 
 #### NuGet Packages
 
@@ -239,7 +239,7 @@ _Implementations of Example, Simulation and SampleServer that are running on the
 - `opc.tcp://opcua2.umati.app:4840` - [umati Demo Server 2](https://github.com/umati/Sample-Server-asyncio) implementing different umati endorsed companion specifications
 - `opc.tcp://milo.digitalpetri.com:62541/milo` - [Demo Server](https://github.com/eclipse/milo#public-demo-server) based on eclipse/milo
 - `opc.tcp://opcuademo.sterfive.com:26543` - [Demo Server based on NodeOPCUA](https://github.com/node-opcua)
-- [Azure OPC UA Sample](https://github.com/Azure-Samples/iot-edge-opc-plc) - sample server in c# 
+- [Azure OPC UA Sample](https://github.com/Azure-Samples/iot-edge-opc-plc) - sample server in c#
 - [List of publicly availavle OPC UA Servers and Clients](https://github.com/node-opcua/node-opcua/wiki/publicly-available-OPC-UA-Servers-and-Clients)
 
 ## Server and client applications
