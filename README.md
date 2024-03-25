@@ -180,6 +180,7 @@ _SDKs to create OPC UA components._
 #### Rust
 
 - [locka99/opcua](https://github.com/locka99/opcua) - OPC UA server / client API implementation for Rust. [MPL-2.0]
+- [HMIProject/open62541](https://github.com/HMIProject/open62541) - crate provides high-level, safe bindings for the C99 library open62541. [MPL-2.0]
 
 #### Golang
 
