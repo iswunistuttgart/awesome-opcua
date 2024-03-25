@@ -17,8 +17,9 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
     - [Resources](#resources)
       - [Online Resources](#online-resources)
       - [Books](#books)
-      - [Articles](#articles)
-      - [Videos](#videos)
+      - [Articles](#Articles)
+      - [Videos](#Videos)
+      - [Podcasts](#podcasts)
     - [Software](#software)
       - [SDKs and Libraries](#sdks-and-libraries)
         - [C](#c)
@@ -82,7 +83,7 @@ _Information material available online._
 _Books about OPC UA._
 
 - _Wolfgang Mahnke, Stefan-Helmut Leitner, Matthias Damm_, OPC Unified Architecture. _Springer; 2009_, ISBN: 978-3540688983.
-- Etienne Rossignon, [NodeOPCUA by example - edition 2022](https://leanpub.com/node-opcuabyexample-edition2022)
+- Etienne Rossignon, [NodeOPCUA by example - edition 2024](https://leanpub.com/node-opcuabyexample-edition2024)
 
 ### Articles
 
@@ -104,6 +105,10 @@ Compare different implementations for OPC UA
 - [YouTube Channel of the OPC Foundation](https://www.youtube.com/user/TheOPCFoundation)
 - [OPC UA for Machine Tools YT Channel](https://youtube.com/playlist?list=PLkiLpeY1YPH1gEtEV7jmX9D8XPUEfS5EF)
 - [OPC UA PubSub Explained, Jouni Aro (Prosys OPC), OPC Day Finland 2021](https://www.youtube.com/watch?v=FWtrruzOvr4&list=PL98upRG1ESZSMFf18NK-OMFxNYWrIdHDU&index=14)
+
+### Podcasts
+- [OPC Foundation Podcast](https://opcfoundation.org/resources/podcast/) - Official OPC Foundation podcast that gives insight into the OPC UA technology, applications in different industries and answers questions from the audience.
+- [OPC UA (OPC Unified Architecture) | Einfach Komplex Episode 17, May 2023](https://podcasters.spotify.com/pod/show/einfach-komplex/episodes/17-OPC-UA-OPC-Unified-Architecture--Industriestandard-zur-Datenkommunikation--Automatisierung--IoT-e238kj3) - (German) A 45min podcast about basic concepts, industry applications and comparison to MQTT
 
 ## Software
 
@@ -152,8 +157,9 @@ _SDKs to create OPC UA components._
 
 #### JavaScript / TypeScript
 
-- [node-opcua](http://node-opcua.github.io/) - Server/Client - NodeOPCUA is a OPC UA stack fully written in TypeScript for Node.js. [MIT]
+- [node-opcua](http://node-opcua.github.io/) - Server/Client - NodeOPCUA is then OPC SDK UA stack fully written in TypeScript for Node.js. [MIT]
 - [node-red-contrib-opcua](https://flows.nodered.org/node/node-red-contrib-opcua) - Node-Red Plugin for OPC UA (Server/Client)
+- [@opcua/for-node-red](https://flows.nodered.org/node/@opcua/for-node-red) - Professional OPCUA for NodeRED (Commercial)
 - [HBM/opcua](https://github.com/HBM/opcua) - only Client
 
 #### Java
@@ -201,10 +207,12 @@ _SDKs to create OPC UA components._
 _Test Clients to check server implementations manually._
 
 - [UaExpert](https://www.unified-automation.com/products/development-tools/uaexpert.html) - General purpose graphical test client supporting OPC UA features like DataAccess, Alarms & Conditions, Historical Access and calling of UA Methods by Unified Automation [Commercial] (free evaluation license).
+- [opcua-commander](https://npmjs.com/package/opcua-commander) - Client Browser for the CLI to interact with OPC UA servers using ncurses.
 - [dataFEED](https://data-intelligence.softing.com/de/produkte/opc-software-plattform/opc-ua-demo-client/) - Demo Client developed by Softing (free)
 - [FreeOpcUA](https://github.com/FreeOpcUa/opcua-client-gui) - OpenSource Client based on python
 - [Prosys OPC UA Monitor](https://www.prosysopc.com/products/opc-ua-monitor/) - HMI Tool  (Evaluation for Free)
 - [OPC UA Browser](https://www.prosysopc.com/products/opc-ua-browser/) - Demo Client developed by Prosys (free evaluation license).
+- [OPC UA Browser](https://github.com/basysKom/opcua_browser) - Qt-based Mobile app based on open62541/Qt OPC UA (GPLv3).
 - [OPC UA Test tool](https://github.com/matkonnerth/opcuatesttool) - Automate OPC UA server performance testing
 - [https://opalopc.com/](https://opalopc.com/) - A vulnerability scanner for OPC UA applications.
 
@@ -271,7 +279,6 @@ coming soon
 
 - [Stack Overflow](https://stackoverflow.com/tags/opc-ua) - Questions related to OPC UA in Stack Overflow.
 - [OPC Foundation Twitter](https://twitter.com/OPCFoundation) - Official OPC Foundation account that shares update about the OPC UA standard.
-- [OPC Foundation Podcast](https://opcfoundation.org/resources/podcast/) - Official OPC Foundation podcast that gives insight into the OPC UA technology, applications in different industries and answers questions from the audience.
 - [OPC Foundation Ebooks](https://opcfoundation.org/resources/ebooks/) - Information about OPC UA technology and applications in different industries as contributions by various authors.
 
 ## Related Lists
