@@ -209,6 +209,7 @@ _Test Clients to check server implementations manually._
 - [FreeOpcUA](https://github.com/FreeOpcUa/opcua-client-gui) - OpenSource Client based on python
 - [Prosys OPC UA Monitor](https://www.prosysopc.com/products/opc-ua-monitor/) - HMI Tool  (Evaluation for Free)
 - [OPC UA Browser](https://www.prosysopc.com/products/opc-ua-browser/) - Demo Client developed by Prosys (free evaluation license).
+- [OPC UA Browser](https://github.com/basysKom/opcua_browser) - Qt-based Mobile app based on open62541/Qt OPC UA (GPLv3).
 - [OPC UA Test tool](https://github.com/matkonnerth/opcuatesttool) - Automate OPC UA server performance testing
 - [https://opalopc.com/](https://opalopc.com/) - A vulnerability scanner for OPC UA applications.
 
