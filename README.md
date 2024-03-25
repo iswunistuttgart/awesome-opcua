@@ -83,7 +83,7 @@ _Information material available online._
 _Books about OPC UA._
 
 - _Wolfgang Mahnke, Stefan-Helmut Leitner, Matthias Damm_, OPC Unified Architecture. _Springer; 2009_, ISBN: 978-3540688983.
-- Etienne Rossignon, [NodeOPCUA by example - edition 2022](https://leanpub.com/node-opcuabyexample-edition2022)
+- Etienne Rossignon, [NodeOPCUA by example - edition 2024](https://leanpub.com/node-opcuabyexample-edition2024)
 
 ### Articles
 
@@ -157,8 +157,9 @@ _SDKs to create OPC UA components._
 
 #### JavaScript / TypeScript
 
-- [node-opcua](http://node-opcua.github.io/) - Server/Client - NodeOPCUA is a OPC UA stack fully written in TypeScript for Node.js. [MIT]
+- [node-opcua](http://node-opcua.github.io/) - Server/Client - NodeOPCUA is then OPC SDK UA stack fully written in TypeScript for Node.js. [MIT]
 - [node-red-contrib-opcua](https://flows.nodered.org/node/node-red-contrib-opcua) - Node-Red Plugin for OPC UA (Server/Client)
+- [@opcua/for-node-red](https://flows.nodered.org/node/@opcua/for-node-red) - Professional OPCUA for NodeRED (Commercial)
 - [HBM/opcua](https://github.com/HBM/opcua) - only Client
 
 #### Java
@@ -205,6 +206,7 @@ _SDKs to create OPC UA components._
 _Test Clients to check server implementations manually._
 
 - [UaExpert](https://www.unified-automation.com/products/development-tools/uaexpert.html) - General purpose graphical test client supporting OPC UA features like DataAccess, Alarms & Conditions, Historical Access and calling of UA Methods by Unified Automation [Commercial] (free evaluation license).
+- [opcua-commander](https://npmjs.com/package/opcua-commander) - Client Browser for the CLI to interact with OPC UA servers using ncurses.
 - [dataFEED](https://data-intelligence.softing.com/de/produkte/opc-software-plattform/opc-ua-demo-client/) - Demo Client developed by Softing (free)
 - [FreeOpcUA](https://github.com/FreeOpcUa/opcua-client-gui) - OpenSource Client based on python
 - [Prosys OPC UA Monitor](https://www.prosysopc.com/products/opc-ua-monitor/) - HMI Tool  (Evaluation for Free)
