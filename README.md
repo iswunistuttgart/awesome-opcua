@@ -17,8 +17,8 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
     - [Resources](#resources)
       - [Online Resources](#online-resources)
       - [Books](#books)
-      - [Articles](#Articles)
-      - [Videos](#Videos)
+      - [Articles](#articles)
+      - [Videos](#videos)
       - [Podcasts](#podcasts)
     - [Software](#software)
       - [SDKs and Libraries](#sdks-and-libraries)
@@ -65,13 +65,12 @@ _Information material apart from the standards documents._
 _Information material available online._
 
 - [OPC Foundation Online Reference](https://reference.opcfoundation.org/)
-- [OPC UA Profile Reporting Application
-](https://profiles.opcfoundation.org/) - UA 1.05 forward
+- [OPC UA Profile Reporting Application](https://profiles.opcfoundation.org/) - UA 1.05 forward
 - `deprecated` [OPC Foundation UA Profile Reporting Visualization Tool](https://profiles-old.opcfoundation.org/) - Overview of OPC UA Profiles.
 - `deprecated` [OPC Foundation UA Profile Reporting Visualization Tool with drafts](https://profiles-old.opcfoundation.org/v104/reporting/?All=true) - Same as above including (stable) drafts.
 - [OPC Foundation Templates](https://opcfoundation.org/developer-tools/documents/) - (select the "Template" filter) Templates for (joint) working groups. Including MS Visio shapes for OPC UA.
 - `no longer available`~~[OPC Foundation OPC UA Wiki](http://wiki.opcfoundation.org/index.php?title=Main_Page) - OPC UA Wiki of the OPC Foundation.~~
-- [OPC Foundation Information Modelling Best Practices](https://opcfoundation.org/developer-tools/documents/view/312) - Whitepaper intended to provide best practices while creating OPC UA information models.
+- `updated`[OPC Foundation Information Modelling Best Practices](https://reference.opcfoundation.org/Model-Best/v102/docs/) - Whitepaper intended to provide best practices while creating OPC UA information models.
 - [List of Collaborations Groups on Companion Specifications](https://docs.google.com/spreadsheets/d/10SOpad6uu7JA5ZSpccVyqaqkyhYBiIXqNus28-1cJtU/edit#gid=1248333029) - Overview of the different standardization activities
 - `depublished` ~~[https://opcua.rocks/](https://opcua.rocks/) - blog about OPC UA~~
 - [https://sandervandevelde.wordpress.com/](https://sandervandevelde.wordpress.com/) -  IoT Blog (use also OPC UA in some projects)
@@ -83,7 +82,7 @@ _Information material available online._
 _Books about OPC UA._
 
 - _Wolfgang Mahnke, Stefan-Helmut Leitner, Matthias Damm_, OPC Unified Architecture. _Springer; 2009_, ISBN: 978-3540688983.
-- Etienne Rossignon, [NodeOPCUA by example - edition 2024](https://leanpub.com/node-opcuabyexample-edition2024)
+- _Etienne Rossignon_, [NodeOPCUA by example - edition 2024](https://leanpub.com/node-opcuabyexample-edition2024)
 
 ### Articles
 
@@ -94,6 +93,7 @@ Performance evaluation of differente protocols
 Compare different implementations for OPC UA
 - [Designentscheidungen für OPC-UA-Informationsmodelle](https://www.ingenieur.de/fachmedien/wt-werkstattstechnik/ausgaben-wt-werkstattstechnik-online/inhalte-der-online-ausgabe-5-2020/) (German) Description of OPC UA Design decisions in OPC UA for Weighing Technology and OPC UA for Machine Tools
 - [Der Trend zur branchenorienterten OPC UA Companion Specification und deren Herausforderungen](https://www.der-maschinenbau.de/markt-trends-technik/der-trend-und-seine-herausforderungen/) (German) Descriptes the Trends of OPC UA  Companion Specification
+- [OPC UA for Devs in 10 Minutes](https://github.com/umati/hackathon/blob/main/2nd_hackathon/Presentations/20230516_OpcUaIn10Minutes.pdf) - short presentation for developers to grasp the concept of OPC UA information modelling
 
 ### Videos
 
@@ -107,6 +107,7 @@ Compare different implementations for OPC UA
 - [OPC UA PubSub Explained, Jouni Aro (Prosys OPC), OPC Day Finland 2021](https://www.youtube.com/watch?v=FWtrruzOvr4&list=PL98upRG1ESZSMFf18NK-OMFxNYWrIdHDU&index=14)
 
 ### Podcasts
+
 - [OPC Foundation Podcast](https://opcfoundation.org/resources/podcast/) - Official OPC Foundation podcast that gives insight into the OPC UA technology, applications in different industries and answers questions from the audience.
 - [OPC UA (OPC Unified Architecture) | Einfach Komplex Episode 17, May 2023](https://podcasters.spotify.com/pod/show/einfach-komplex/episodes/17-OPC-UA-OPC-Unified-Architecture--Industriestandard-zur-Datenkommunikation--Automatisierung--IoT-e238kj3) - (German) A 45min podcast about basic concepts, industry applications and comparison to MQTT
 
@@ -270,6 +271,7 @@ _Implementations of server and client applications and other examples._
 - [OPC UA primer](https://github.com/ntd/opcua-primer) - A sample OPC UA server based on `open62541` and on a model design XML. [MIT]
 - [opcua-skills/plug-and-produce](https://github.com/opcua-skills/plug-and-produce) - Plug-and-Produce System Architecture for Robotic Applications using OPC UA [proprietary]
 - [convertersystems/opc-ua-samples](https://github.com/convertersystems/opc-ua-samples) - Sample HMIs using OPC Unified Architecture (OPC UA) and Visual Studio. [MIT]
+- [opcua-machinery-client](https://github.com/AndreasHeine/opcua-machinery-client) - Client example showcaseing the OPC UA for Machinery from a data consumer perspective. [MIT]
 
 ## Gateways (OPC Classic)
 
