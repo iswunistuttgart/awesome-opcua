@@ -36,6 +36,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
       - [Cloud](#cloud)
       - [Test Clients](#test-clients)
       - [Modelling Tools](#modelling-tools)
+      - [Monitoring Tools](#monitoring-tools)
       - [Online Tools](#online-tools)
       - [SimulationServer](#server-simulations)
       - [Server and Client examples](#server-and-client-applications)
@@ -228,6 +229,10 @@ _Tools to create OPC UA Information Models._
 - [UA-ModelCompiler](https://github.com/OPCFoundation/UA-ModelCompiler) - Tool to convert OPC UA Information models in Model.xml format to NodeSet2.xml Format. [MIT]
 - [UML2OPCUA](https://github.com/model-UA/papyrus-opcua-plugin) - Papyrus plugin to model OPC UA Information models with Papyrus
 - `deprecated` [FreeOpcUa/opcua-modeler](https://github.com/FreeOpcUa/opcua-modeler) - Free OPC UA Modeler is a tool for designing OPC UA address spaces [GPL-3.0]
+
+### Monitoring Tools
+
+- [prometheus_asyncua_exporter](https://github.com/ainglessi/prometheus_asyncua_exporter) - OPC UA exporter for Prometheus
 
 ### Online Tools
 
