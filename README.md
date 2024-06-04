@@ -232,7 +232,7 @@ _Tools to create OPC UA Information Models._
 
 ### Monitoring Tools
 
-- [prometheus_asyncua_exporter](https://github.com/ainglessi/prometheus_asyncua_exporter) - OPC UA exporter for Prometheus
+- [prometheus_asyncua_exporter](https://github.com/ainglessi/prometheus_asyncua_exporter) - OPC UA exporter for Prometheus [Apache-2.0]
 
 ### Online Tools
 
