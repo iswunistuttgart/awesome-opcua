@@ -249,8 +249,9 @@ _Implementations of Example, Simulation and SampleServer that are running on the
 - [OPC UA Player](https://github.com/MileBuurmeijer/OPCUA-Player) -  supports replaying OPC UA data from a data file
 - [OPC UA Simulation Server](https://www.prosysopc.com/products/opc-ua-simulation-server/) - free (professional Edition can import own information model)
 - `depublished` ~~`opc.tcp://opcua.rocks:4840` - Demo Server based on open62541~~
-- `opc.tcp://opcua.umati.app:4840` - [umati Demo Server](https://github.com/umati/Sample-Server) implementing different umati endorsed companion specifications
-- `opc.tcp://opcua2.umati.app:4840` - [umati Demo Server 2](https://github.com/umati/Sample-Server-asyncio) implementing different umati endorsed companion specifications
+- `opc.tcp://opcua.umati.app:4840` - [umati Demo Server](https://github.com/umati/Sample-Server) implementing different umati endorsed companion specifications, based on [open62541](https://open62541.org/)
+- `opc.tcp://opcua.umati.app:4842` - [umati Demo Server 2](https://github.com/umati/Sample-Server-asyncio) implementing different umati endorsed companion specifications, based on [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio)
+- `opc.tcp://opcua.umati.app:4843` - [umati Demo Server 3](https://github.com/umati/Sample-Server-node-opcua) implementing different umati endorsed companion specifications, based on [node-opcua](https://node-opcua.github.io/)
 - `opc.tcp://milo.digitalpetri.com:62541/milo` - [Demo Server](https://github.com/eclipse/milo#public-demo-server) based on eclipse/milo
 - `opc.tcp://opcuademo.sterfive.com:26543` - [Demo Server based on NodeOPCUA](https://github.com/node-opcua)
 - [Azure OPC UA Sample](https://github.com/Azure-Samples/iot-edge-opc-plc) - sample server in c#
