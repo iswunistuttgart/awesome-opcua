@@ -137,7 +137,7 @@ _SDKs to create OPC UA components._
 #### C++
 
 - [freeopcua](https://github.com/FreeOpcUa/freeopcua) - Open Source C++ OPC-UA Server and Client Library. [LGPL-3.0]
-- [QtOPCUA](https://doc.qt.io/QtOPCUA/index.html) - Qt module that implements a Qt API to interact with OPC UA. [LGPL-3.0]
+- [QtOPCUA](https://doc.qt.io/qt-6/qtopcua-index.html) - Qt module that implements a Qt API to interact with OPC UA. [LGPL-3.0]
 - [QUaServer](https://github.com/juangburgos/QUaServer) -  Qt C++ wrapper for open62541 server stack. [MIT]
 - [ASNeG OPC UA Stack](https://asneg.github.io/projects/opcuastack) - Open source C++ framework for development and distribution of OPC UA client\server applications. [Apache-2.0]
 - [open62541pp](https://open62541pp.github.io/open62541pp/) - C++ wrapper of the open62541 OPC UA library. [MPL-2.0]
@@ -145,7 +145,7 @@ _SDKs to create OPC UA components._
 #### C\#
 
 - [UA.NET Standard](https://github.com/OPCFoundation/UA-.NETStandard) - Server/Client - Official OPC UA .NET Standard Stack from the OPC Foundation. [GPL-2.0 / RCL dual licensed]
-- [UACL/CS](Client/Server (wrapper over proprietary sdk)) - Client/Server (wrapper over proprietary sdk)
+- [UACL/CS](https://gitlab.com/falko.wiese/uacl_cs) - Client/Server (wrapper over proprietary sdk)
 - [opc-ua-client](https://github.com/convertersystems/opc-ua-client)-  only Client
 - [LibUA](https://github.com/nauful/LibUA) - Server/Client
 - [h-opc](https://github.com/hylasoft-usa/h-opc) - OPC client made simpler, for UA and DA
@@ -293,6 +293,7 @@ coming soon
 - `depublished` ~~[From modelling to execution – OPC UA Information Model Tutorial](https://opcua.rocks/from-modelling-to-execution-opc-ua-information-model-tutorial/) - Complete walkthrough from creating a custom OPC UA information model, compiling this model into an OPC UA `NodeSet2.xml` file, and then using the `open62541` OPC UA stack to create a running OPC UA server.~~
 - `depublished` ~~[Visualizing OPC UA Information Model using Graphviz](https://opcua.rocks/visualizing-opc-ua-information-model-using-graphviz/) - Tutorial on how to use Graphviz to visualize OPC UA Information Models.~~
 - (WIP) [OPC UA Tutorials](https://github.com/AndreasHeine/opcua-tutorial) - Tutorial for [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio)
+- 
 
 ## Contribute
 
