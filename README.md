@@ -229,6 +229,7 @@ _Tools to create OPC UA Information Models._
 - [UA-ModelCompiler](https://github.com/OPCFoundation/UA-ModelCompiler) - Tool to convert OPC UA Information models in Model.xml format to NodeSet2.xml Format. [MIT]
 - [UML2OPCUA](https://github.com/model-UA/papyrus-opcua-plugin) - Papyrus plugin to model OPC UA Information models with Papyrus
 - `deprecated` [FreeOpcUa/opcua-modeler](https://github.com/FreeOpcUa/opcua-modeler) - Free OPC UA Modeler is a tool for designing OPC UA address spaces [GPL-3.0]
+- [NodeDoc](https://github.com/software-competence-center-hagenberg/NodeDoc/) - Tool for documentation and comparing nodesets  [MIT]
 
 ### Monitoring Tools
 
