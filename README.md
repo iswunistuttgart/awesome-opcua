@@ -156,6 +156,7 @@ _SDKs to create OPC UA components._
 - [OPC UA .NET SDK](https://www.prosysopc.com/products/opc-ua-dotnet-sdk/) - Server/Client (Prosys) [Commercial]
 - [PicoOPC](https://www.opclabs.com/products/picoopc/for-dotnet) - OPC UA client library [Commercial]
 - [Unified Automation .NET SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client [Commercial]
+- [Traeger .NET SDK](https://www.traeger.de/en/products/development/opcua/opcua-sdk)  - Server/Client SDK and Tools like Codabix [Commercial]
 
 #### JavaScript / TypeScript
 
@@ -163,6 +164,8 @@ _SDKs to create OPC UA components._
 - [node-red-contrib-opcua](https://flows.nodered.org/node/node-red-contrib-opcua) - Node-Red Plugin for OPC UA (Server/Client)
 - [@opcua/for-node-red](https://flows.nodered.org/node/@opcua/for-node-red) - Professional OPCUA for NodeRED (Commercial)
 - [HBM/opcua](https://github.com/HBM/opcua) - only Client
+- [@plus4nodered/opcua-<package-name>](https://plus4nodered.com) - Professional OPC UA packages as a PLUS for Node-RED and FlowFuse inspired by our deprecated node-red-contrib-iiot-opcua package [P4NR B2B Community](https://p4nr.com/)
+- [@p4nr/opcua-webapp-framework](https://plus4nodered.com) - Professional OPC UA Framework based on node-opcua for Node.js Web-Apps to make it easier to use OPC UA in Web-Apps [P4NR B2B Community](https://p4nr.com/)
 
 #### Java
 
