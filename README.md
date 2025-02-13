@@ -95,6 +95,7 @@ Compare different implementations for OPC UA
 - [Designentscheidungen für OPC-UA-Informationsmodelle](https://www.ingenieur.de/fachmedien/wt-werkstattstechnik/ausgaben-wt-werkstattstechnik-online/inhalte-der-online-ausgabe-5-2020/) (German) Description of OPC UA Design decisions in OPC UA for Weighing Technology and OPC UA for Machine Tools
 - [Der Trend zur branchenorienterten OPC UA Companion Specification und deren Herausforderungen](https://www.der-maschinenbau.de/markt-trends-technik/der-trend-und-seine-herausforderungen/) (German) Descriptes the Trends of OPC UA  Companion Specification
 - [OPC UA for Devs in 10 Minutes](https://github.com/umati/hackathon/blob/main/2nd_hackathon/Presentations/20230516_OpcUaIn10Minutes.pdf) - short presentation for developers to grasp the concept of OPC UA information modelling
+- [File transfer via OPC UA](https://www.interop4x.de/news/file-transfer-opcua) compare the OPC UA file transfer with other protcols like HTTP, FTP
 
 ### Videos
 
@@ -106,6 +107,7 @@ Compare different implementations for OPC UA
 - [YouTube Channel of the OPC Foundation](https://www.youtube.com/user/TheOPCFoundation)
 - [OPC UA for Machine Tools YT Channel](https://youtube.com/playlist?list=PLkiLpeY1YPH1gEtEV7jmX9D8XPUEfS5EF)
 - [OPC UA PubSub Explained, Jouni Aro (Prosys OPC), OPC Day Finland 2021](https://www.youtube.com/watch?v=FWtrruzOvr4&list=PL98upRG1ESZSMFf18NK-OMFxNYWrIdHDU&index=14)
+- [Using Companion Specifications for type-based client applications](https://youtu.be/Ht2rxMkHGIs) - Shows how the umati dashboard works.
 
 ### Podcasts
 
