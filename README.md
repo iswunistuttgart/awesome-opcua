@@ -148,10 +148,10 @@ _SDKs to create OPC UA components._
 #### C\#
 
 - [UA.NET Standard](https://github.com/OPCFoundation/UA-.NETStandard) - Server/Client - Official OPC UA .NET Standard Stack from the OPC Foundation. [GPL-2.0 / RCL dual licensed]
-- [UACL/CS](https://gitlab.com/falko.wiese/uacl_cs) - Client/Server (wrapper over proprietary sdk)
-- [opc-ua-client](https://github.com/convertersystems/opc-ua-client)-  only Client
-- [LibUA](https://github.com/nauful/LibUA) - Server/Client
-- [h-opc](https://github.com/hylasoft-usa/h-opc) - OPC client made simpler, for UA and DA
+- [UACL/CS](https://gitlab.com/falko.wiese/uacl_cs) - Client/Server (wrapper over proprietary sdk) [LGPL-3.0]
+- [opc-ua-client](https://github.com/convertersystems/opc-ua-client)-  only Client [MIT]
+- [LibUA](https://github.com/nauful/LibUA) - Server/Client [Apache-2.0]
+- [h-opc](https://github.com/hylasoft-usa/h-opc) - OPC client made simpler, for UA and DA [MIT]
 - [Träger](https://opcua.traeger.de/) - Server/Client [Commercial]
 - [dataFeed OPC UA](https://data-intelligence.softing.com/de/produkte/datafeed-opc-sdks/datafeed-opc-ua-net-standard-sdks/) - Server/Client (Softing) [Commercial]
 - [QuickOPC](https://www.opclabs.com/products/quickopc) - Client (OPC Labs)
@@ -163,9 +163,9 @@ _SDKs to create OPC UA components._
 #### JavaScript / TypeScript
 
 - [node-opcua](http://node-opcua.github.io/) - Server/Client - NodeOPCUA is then OPC SDK UA stack fully written in TypeScript for Node.js. [MIT]
-- [node-red-contrib-opcua](https://flows.nodered.org/node/node-red-contrib-opcua) - Node-Red Plugin for OPC UA (Server/Client)
-- [@opcua/for-node-red](https://flows.nodered.org/node/@opcua/for-node-red) - Professional OPCUA for NodeRED (Commercial)
-- [HBM/opcua](https://github.com/HBM/opcua) - only Client
+- [node-red-contrib-opcua](https://flows.nodered.org/node/node-red-contrib-opcua) - Node-Red Plugin for OPC UA (Server/Client) [Apache-2.0]
+- [@opcua/for-node-red](https://flows.nodered.org/node/@opcua/for-node-red) - Professional OPCUA for NodeRED [Commercial]
+- [HBM/opcua](https://github.com/HBM/opcua) - only Client [MIT]
 - [@plus4nodered/opcua](https://plus4nodered.com) - Professional OPC UA packages as a PLUS for Node-RED and FlowFuse inspired by our deprecated node-red-contrib-iiot-opcua package [P4NR B2B Community](https://p4nr.com/)
 - [@p4nr/opcua-webapp-framework](https://plus4nodered.com) - Professional OPC UA Framework based on node-opcua for Node.js Web-Apps to make it easier to use OPC UA in Web-Apps [P4NR B2B Community](https://p4nr.com/)
 
@@ -186,8 +186,8 @@ _SDKs to create OPC UA components._
 
 #### Python
 
-- [uaf](https://github.com/uaf/uaf) - Client (wrapper over proprietary sdk)
-- `deprecated`[Python FreeOpcUa](https://github.com/FreeOpcUa/python-opcua) - Server /Client
+- [uaf](https://github.com/uaf/uaf) - Client (wrapper over proprietary sdk) [LGPL-3.0]
+- `deprecated`[Python FreeOpcUa](https://github.com/FreeOpcUa/python-opcua) - Server /Client [LGPL-3.0]
 - [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) - OPC UA / IEC 62541 Client and Server for Python >= 3.7 and pypy3. [LGPL-3.0]
 
 #### Rust
@@ -197,7 +197,7 @@ _SDKs to create OPC UA components._
 
 #### Golang
 
-- [gopcua/opcua](https://github.com/gopcua/opcua) - Server/Client - A native Go implementation of the OPC/UA Binary Protocol.
+- [gopcua/opcua](https://github.com/gopcua/opcua) - Server/Client - A native Go implementation of the OPC/UA Binary Protocol. [MIT]
 - [awcullen/opcua](https://github.com/awcullen/opcua) - Server/Client. [MIT]
 
 #### Delphi
@@ -214,14 +214,14 @@ _SDKs to create OPC UA components._
 _Test Clients to check server implementations manually._
 
 - [UaExpert](https://www.unified-automation.com/products/development-tools/uaexpert.html) - General purpose graphical test client supporting OPC UA features like DataAccess, Alarms & Conditions, Historical Access and calling of UA Methods by Unified Automation [Commercial] (free evaluation license).
-- [opcua-commander](https://npmjs.com/package/opcua-commander) - Client Browser for the CLI to interact with OPC UA servers using ncurses.
+- [opcua-commander](https://npmjs.com/package/opcua-commander) - Client Browser for the CLI to interact with OPC UA servers using ncurses. [MIT]
 - [dataFEED](https://data-intelligence.softing.com/de/produkte/opc-software-plattform/opc-ua-demo-client/) - Demo Client developed by Softing (free)
-- [FreeOpcUA](https://github.com/FreeOpcUa/opcua-client-gui) - OpenSource Client based on python
-- [Prosys OPC UA Monitor](https://www.prosysopc.com/products/opc-ua-monitor/) - HMI Tool  (Evaluation for Free)
+- [FreeOpcUA](https://github.com/FreeOpcUa/opcua-client-gui) - OpenSource Client based on python. [GPL-3.0]
+- [Prosys OPC UA Monitor](https://www.prosysopc.com/products/opc-ua-monitor/) - HMI Tool  (free evaluation license)
 - [OPC UA Browser](https://www.prosysopc.com/products/opc-ua-browser/) - Demo Client developed by Prosys (free evaluation license).
-- [OPC UA Browser](https://github.com/basysKom/opcua_browser) - Qt-based Mobile app based on open62541/Qt OPC UA (GPLv3).
+- [OPC UA Browser](https://github.com/basysKom/opcua_browser) - Qt-based Mobile app based on open62541/Qt OPC UA. [GPL-3.0]
 - [OPC UA Test tool](https://github.com/matkonnerth/opcuatesttool) - Automate OPC UA server performance testing
-- [https://opalopc.com/](https://opalopc.com/) - A vulnerability scanner for OPC UA applications.
+- [OPC UA Vulnerability Scanner - OpalOPC](https://opalopc.com/) - A vulnerability scanner for OPC UA applications. [GPL-3.0]
 
 ### Modelling Tools
 
@@ -305,7 +305,6 @@ coming soon
 - `depublished` ~~[From modelling to execution – OPC UA Information Model Tutorial](https://opcua.rocks/from-modelling-to-execution-opc-ua-information-model-tutorial/) - Complete walkthrough from creating a custom OPC UA information model, compiling this model into an OPC UA `NodeSet2.xml` file, and then using the `open62541` OPC UA stack to create a running OPC UA server.~~
 - `depublished` ~~[Visualizing OPC UA Information Model using Graphviz](https://opcua.rocks/visualizing-opc-ua-information-model-using-graphviz/) - Tutorial on how to use Graphviz to visualize OPC UA Information Models.~~
 - (WIP) [OPC UA Tutorials](https://github.com/AndreasHeine/opcua-tutorial) - Tutorial for [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio)
-- 
 
 ## Contribute
 
