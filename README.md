@@ -262,6 +262,7 @@ _Implementations of Example, Simulation and SampleServer that are running on the
 - `opc.tcp://opcuademo.sterfive.com:26543` - [Demo Server based on NodeOPCUA](https://github.com/node-opcua)
 - [Azure OPC UA Sample](https://github.com/Azure-Samples/iot-edge-opc-plc) - sample server in c#
 - [List of publicly availavle OPC UA Servers and Clients](https://github.com/node-opcua/node-opcua/wiki/publicly-available-OPC-UA-Servers-and-Clients)
+- [UaExpert file with OPC UA servers accessible online](https://www.interop4x.de/en/news/uaexpert-project-file)
 
 ## Server and client applications
 
