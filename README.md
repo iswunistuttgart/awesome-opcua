@@ -130,7 +130,7 @@ _SDKs to create OPC UA components._
 - [ASNeG](https://github.com/ASNeG/OpcUaStack)  - Server/Client
 - [uaf](https://github.com/uaf/uaf)  - Client (wrapper over proprietary sdk)
 - [UACL/CPP -](https://gitlab.com/falko.wiese/uacl_cpp) Server (wrapper over proprietary sdk)
-- [S2OPC](https://gitlab.com/systerel/S2OPC) - Client/Server
+- [S2OPC](https://gitlab.com/systerel/S2OPC) - Open Source C (C99) implementation for Server/Client and Pub/Sub [Apache-2.0]
 - [dataFeed OPC UA](https://data-intelligence.softing.com/de/produkte/datafeed-opc-sdks/datafeed-opc-ua-c-server-client-sdk-for-windows/) - Server/Client proprietary (Softing) [Commercial]
 - [OPC UA SDK/Toolkit für Embedded-Geräte](https://industrial.softing.com/de/produkte/opc-ua-and-opc-classic-sdks/uatoolkit-embedded.html) - C implementation for Server/Client and Pub/Sub [Commercial]
 - [Prosys OPC UA C/C++ SDKs](https://www.prosysopc.com/products/opc-ua-cplusplus-sdk/) - Server/Client proprietary [Commercial]
