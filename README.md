@@ -4,7 +4,7 @@
 
 Including the information from [traversaro/awesome-opcua](https://github.com/traversaro/awesome-opcua)
 
-Open Platform Communications Unified Architecture (OPC UA) is the data exchange standard for  safe, reliable, manufacturer- and platform-independent industrial communication.
+Open Platform Communications Unified Architecture (OPC UA) is the data exchange standard for safe, reliable, manufacturer- and platform-independent industrial communication.
 
 For a brief introduction to OPC UA, check the [What is OPC? UA in a Minute](https://www.youtube.com/watch?v=-tDGzwsBokY).
 
@@ -74,7 +74,7 @@ _Information material available online._
 - `updated`[OPC Foundation Information Modelling Best Practices](https://reference.opcfoundation.org/Model-Best/v102/docs/) - Whitepaper intended to provide best practices while creating OPC UA information models.
 - [List of Collaborations Groups on Companion Specifications](https://docs.google.com/spreadsheets/d/10SOpad6uu7JA5ZSpccVyqaqkyhYBiIXqNus28-1cJtU/edit#gid=1248333029) - Overview of the different standardization activities
 - `depublished` ~~[https://opcua.rocks/](https://opcua.rocks/) - blog about OPC UA~~
-- [https://sandervandevelde.wordpress.com/](https://sandervandevelde.wordpress.com/) -  IoT Blog (use also OPC UA in some projects)
+- [https://sandervandevelde.wordpress.com/](https://sandervandevelde.wordpress.com/) - IoT Blog (use also OPC UA in some projects)
 - [OPCUA CS Graph](https://iswunistuttgart.github.io/opcua-cs-graph/) - Graph that shows the dependencies between Companion Specification
 - [GitHub Org of the OPC Foundation](https://github.com/OPCFoundation) - different software projects and reference implementations
 
@@ -89,11 +89,11 @@ _Books about OPC UA._
 
 - [A Literature Survey on Open Platform Communications (OPC) Applied to Advanced Industrial Environments](https://www.mdpi.com/2079-9292/8/5/510) A literature Survey for OPC UA in 2019 with Trends and Open Research Issues
 - [OPC UA versus ROS, DDS, and MQTT: performance evaluation of industry 4.0 protocols](https://mediatum.ub.tum.de/doc/1470362/file.pdf)
-Performance evaluation of differente protocols
-- [Benchmarking of existing OPC UA implementations for Industrie  4.0-compliant digitalization solutions](https://ieeexplore.ieee.org/abstract/document/8104838)
-Compare different implementations for OPC UA
+  Performance evaluation of differente protocols
+- [Benchmarking of existing OPC UA implementations for Industrie 4.0-compliant digitalization solutions](https://ieeexplore.ieee.org/abstract/document/8104838)
+  Compare different implementations for OPC UA
 - [Designentscheidungen für OPC-UA-Informationsmodelle](https://www.ingenieur.de/fachmedien/wt-werkstattstechnik/ausgaben-wt-werkstattstechnik-online/inhalte-der-online-ausgabe-5-2020/) (German) Description of OPC UA Design decisions in OPC UA for Weighing Technology and OPC UA for Machine Tools
-- [Der Trend zur branchenorienterten OPC UA Companion Specification und deren Herausforderungen](https://www.der-maschinenbau.de/markt-trends-technik/der-trend-und-seine-herausforderungen/) (German) Descriptes the Trends of OPC UA  Companion Specification
+- [Der Trend zur branchenorienterten OPC UA Companion Specification und deren Herausforderungen](https://www.der-maschinenbau.de/markt-trends-technik/der-trend-und-seine-herausforderungen/) (German) Descriptes the Trends of OPC UA Companion Specification
 - [OPC UA for Devs in 10 Minutes](https://github.com/umati/hackathon/blob/main/2nd_hackathon/Presentations/20230516_OpcUaIn10Minutes.pdf) - short presentation for developers to grasp the concept of OPC UA information modelling
 - [File transfer via OPC UA](https://www.interop4x.de/news/file-transfer-opcua) compare the OPC UA file transfer with other protcols like HTTP, FTP
 
@@ -101,7 +101,7 @@ Compare different implementations for OPC UA
 
 - [What is OPC? UA in a Minute](https://www.youtube.com/watch?v=-tDGzwsBokY)
 - [Tech-Intro "OPC UA Concepts" by Uwe Steinkrauss (06-2019)](https://www.youtube.com/watch?v=E2XJfmAEdqw) - A 10 minutes technical introduction to OPC UA basic concepts.
-- [20200622 02 OPC UA Technology](https://www.youtube.com/watch?v=OQC_kVYisS8)  - 20 min Introduction into OPC UA (OPC UA Day 2020)
+- [20200622 02 OPC UA Technology](https://www.youtube.com/watch?v=OQC_kVYisS8) - 20 min Introduction into OPC UA (OPC UA Day 2020)
 - [OPC UA Security Deep Dive by Randy Armstrong (Chair of OPC UA Security Working Group), Dec 2020](https://www.youtube.com/watch?v=pa82WydVtPY)
 - [Creating Information Model and OPC UA Server Using NET - Industry40tv](https://www.youtube.com/watch?v=gxA7SDNLHgc)
 - [YouTube Channel of the OPC Foundation](https://www.youtube.com/user/TheOPCFoundation)
@@ -125,23 +125,23 @@ _SDKs to create OPC UA components._
 #### C
 
 - [open62541](https://open62541.org/) - Open Source C (C99) implementation for Server/Client and Pub/Sub licensed under the Mozilla Public License v2.0. [MPL-2.0]
-- [OpenOpcUA](http://www.openopcua.org/)  - Server/Client
+- [OpenOpcUA](http://www.openopcua.org/) - Server/Client
 - [OpenScadaUA Interface](http://oscada.org/websvn/filedetails.php?repname=OpenSCADA&path=%2Ftrunk%2FOpenSCADA%2Fsrc%2Fmoduls%2Fdaq%2FOPC_UA%2FlibOPC_UA%2FlibOPC_UA.h) - only Server
-- [ASNeG](https://github.com/ASNeG/OpcUaStack)  - Server/Client
-- [uaf](https://github.com/uaf/uaf)  - Client (wrapper over proprietary sdk)
+- [ASNeG](https://github.com/ASNeG/OpcUaStack) - Server/Client
+- [uaf](https://github.com/uaf/uaf) - Client (wrapper over proprietary sdk)
 - [UACL/CPP -](https://gitlab.com/falko.wiese/uacl_cpp) Server (wrapper over proprietary sdk)
 - [S2OPC](https://gitlab.com/systerel/S2OPC) - Open Source C (C99) implementation for Server/Client and Pub/Sub [Apache-2.0]
 - [dataFeed OPC UA](https://data-intelligence.softing.com/de/produkte/datafeed-opc-sdks/datafeed-opc-ua-c-server-client-sdk-for-windows/) - Server/Client proprietary (Softing) [Commercial]
 - [OPC UA SDK/Toolkit für Embedded-Geräte](https://industrial.softing.com/de/produkte/opc-ua-and-opc-classic-sdks/uatoolkit-embedded.html) - C implementation for Server/Client and Pub/Sub [Commercial]
 - [Prosys OPC UA C/C++ SDKs](https://www.prosysopc.com/products/opc-ua-cplusplus-sdk/) - Server/Client proprietary [Commercial]
-- [Unified Automation C/C++ SDKs](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary [Commercial]
+- [Unified Automation C/C++ SDKs](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html) - Server/Client proprietary [Commercial]
 - [NodesetLoader](https://github.com/matkonnerth/nodesetLoader) - Library for importing nodesets in xml schema, add nodeset import to open62541 [MPL-2.0]
 
 #### C++
 
 - [freeopcua](https://github.com/FreeOpcUa/freeopcua) - Open Source C++ OPC-UA Server and Client Library. [LGPL-3.0]
 - [QtOPCUA](https://doc.qt.io/qt-6/qtopcua-index.html) - Qt module that implements a Qt API to interact with OPC UA. [LGPL-3.0]
-- [QUaServer](https://github.com/juangburgos/QUaServer) -  Qt C++ wrapper for open62541 server stack. [MIT]
+- [QUaServer](https://github.com/juangburgos/QUaServer) - Qt C++ wrapper for open62541 server stack. [MIT]
 - [ASNeG OPC UA Stack](https://asneg.github.io/projects/opcuastack) - Open source C++ framework for development and distribution of OPC UA client\server applications. [Apache-2.0]
 - [open62541pp](https://open62541pp.github.io/open62541pp/) - C++ wrapper of the open62541 OPC UA library. [MPL-2.0]
 
@@ -149,7 +149,7 @@ _SDKs to create OPC UA components._
 
 - [UA.NET Standard](https://github.com/OPCFoundation/UA-.NETStandard) - Server/Client - Official OPC UA .NET Standard Stack from the OPC Foundation. [GPL-2.0 / RCL dual licensed]
 - [UACL/CS](https://gitlab.com/falko.wiese/uacl_cs) - Client/Server (wrapper over proprietary sdk) [LGPL-3.0]
-- [opc-ua-client](https://github.com/convertersystems/opc-ua-client)-  only Client [MIT]
+- [opc-ua-client](https://github.com/convertersystems/opc-ua-client)- only Client [MIT]
 - [LibUA](https://github.com/nauful/LibUA) - Server/Client [Apache-2.0]
 - [h-opc](https://github.com/hylasoft-usa/h-opc) - OPC client made simpler, for UA and DA [MIT]
 - [Träger](https://opcua.traeger.de/) - Server/Client [Commercial]
@@ -157,8 +157,8 @@ _SDKs to create OPC UA components._
 - [QuickOPC](https://www.opclabs.com/products/quickopc) - Client (OPC Labs)
 - [OPC UA .NET SDK](https://www.prosysopc.com/products/opc-ua-dotnet-sdk/) - Server/Client (Prosys) [Commercial]
 - [PicoOPC](https://www.opclabs.com/products/picoopc/for-dotnet) - OPC UA client library [Commercial]
-- [Unified Automation .NET SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client [Commercial]
-- [Traeger .NET SDK](https://www.traeger.de/en/products/development/opcua/opcua-sdk)  - Server/Client SDK and Tools like Codabix [Commercial]
+- [Unified Automation .NET SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html) - Server/Client [Commercial]
+- [Traeger .NET SDK](https://www.traeger.de/en/products/development/opcua/opcua-sdk) - Server/Client SDK and Tools like Codabix [Commercial]
 
 #### JavaScript / TypeScript
 
@@ -171,8 +171,8 @@ _SDKs to create OPC UA components._
 
 #### Java
 
-- [Eclipse Milo™](https://github.com/eclipse/milo) - Server/Client - Java open source implementation of OPC UA (IEC 62541).  [EPL-2.0]
-- [opcua4j](https://code.google.com/p/opcua4j/)  - only Server
+- [Eclipse Milo™](https://github.com/eclipse/milo) - Server/Client - Java open source implementation of OPC UA (IEC 62541). [EPL-2.0]
+- [opcua4j](https://code.google.com/p/opcua4j/) - only Server
 - [Prosys OPC UA](https://www.prosysopc.com/products/opc-ua-java-sdk/) - Server/Client proprietary
 
 #### MATLAB
@@ -203,7 +203,7 @@ _SDKs to create OPC UA components._
 #### Delphi
 
 - [Sentrol SDK for Delphi](https://www.prosysopc.com/products/opc-ua-sentrol-sdk/) - Server/Client proprietary (Prosys) [Commercial]
-- [Unified Automation Delphi SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html)  - Server/Client proprietary [Commercial]
+- [Unified Automation Delphi SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html) - Server/Client proprietary [Commercial]
 
 ### Cloud
 
@@ -217,7 +217,7 @@ _Test Clients to check server implementations manually._
 - [opcua-commander](https://npmjs.com/package/opcua-commander) - Client Browser for the CLI to interact with OPC UA servers using ncurses. [MIT]
 - [dataFEED](https://data-intelligence.softing.com/de/produkte/opc-software-plattform/opc-ua-demo-client/) - Demo Client developed by Softing (free)
 - [FreeOpcUA](https://github.com/FreeOpcUa/opcua-client-gui) - OpenSource Client based on python. [GPL-3.0]
-- [Prosys OPC UA Monitor](https://www.prosysopc.com/products/opc-ua-monitor/) - HMI Tool  (free evaluation license)
+- [Prosys OPC UA Monitor](https://www.prosysopc.com/products/opc-ua-monitor/) - HMI Tool (free evaluation license)
 - [OPC UA Browser](https://www.prosysopc.com/products/opc-ua-browser/) - Demo Client developed by Prosys (free evaluation license).
 - [OPC UA Browser](https://github.com/basysKom/opcua_browser) - Qt-based Mobile app based on open62541/Qt OPC UA. [GPL-3.0]
 - [OPC UA Test tool](https://github.com/matkonnerth/opcuatesttool) - Automate OPC UA server performance testing
@@ -235,7 +235,7 @@ _Tools to create OPC UA Information Models._
 - [UA-ModelCompiler](https://github.com/OPCFoundation/UA-ModelCompiler) - Tool to convert OPC UA Information models in Model.xml format to NodeSet2.xml Format. [MIT]
 - [UML2OPCUA](https://github.com/model-UA/papyrus-opcua-plugin) - Papyrus plugin to model OPC UA Information models with Papyrus
 - `deprecated` [FreeOpcUa/opcua-modeler](https://github.com/FreeOpcUa/opcua-modeler) - Free OPC UA Modeler is a tool for designing OPC UA address spaces [GPL-3.0]
-- [NodeDoc](https://github.com/software-competence-center-hagenberg/NodeDoc/) - Tool for documentation and comparing nodesets  [MIT]
+- [NodeDoc](https://github.com/software-competence-center-hagenberg/NodeDoc/) - Tool for documentation and comparing nodesets [MIT]
 
 ### Monitoring Tools
 
@@ -253,7 +253,7 @@ _Tools available online to help with OPC UA components or Information Models._
 
 _Implementations of Example, Simulation and SampleServer that are running on the internet or can be run local._
 
-- [OPC UA Player](https://github.com/MileBuurmeijer/OPCUA-Player) -  supports replaying OPC UA data from a data file
+- [OPC UA Player](https://github.com/MileBuurmeijer/OPCUA-Player) - supports replaying OPC UA data from a data file
 - [OPC UA Simulation Server](https://www.prosysopc.com/products/opc-ua-simulation-server/) - free (professional Edition can import own information model)
 - `depublished` ~~`opc.tcp://opcua.rocks:4840` - Demo Server based on open62541~~
 - `opc.tcp://opcua.umati.app:4840` - [umati Demo Server](https://github.com/umati/Sample-Server) implementing different umati endorsed companion specifications, based on [open62541](https://open62541.org/)
