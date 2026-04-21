@@ -29,6 +29,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
         - [Java](#java)
         - [MATLAB](#matlab)
         - [NuGet Packages](#nuget-packages)
+        - [PHP](#php)
         - [Python](#python)
         - [Rust](#rust)
         - [Golang](#golang)
@@ -184,6 +185,10 @@ _SDKs to create OPC UA components._
 - [OPCFoundation.NetStandard.Opc.Ua](https://www.nuget.org/packages/OPCFoundation.NetStandard.Opc.Ua/) - NuGet Package of the Reference Implementation [[OPC-F redistributables license]](https://opcfoundation.org/license/redistributables/1.3/)
 - [PicoOPC](https://www.opclabs.com/products/picoopc/for-dotnet) - OPC UA client library (OPC Labs) [Commercial]
 
+#### PHP
+
+- [php-opcua](https://github.com/php-opcua) - Client [MIT]
+  
 #### Python
 
 - [uaf](https://github.com/uaf/uaf) - Client (wrapper over proprietary sdk) [LGPL-3.0]
