@@ -213,6 +213,7 @@ _SDKs to create OPC UA components._
 ### Cloud
 
 - [OPC UA with Akri](https://docs.akri.sh/discovery-handlers/opc-ua) - A Kubernetes Resource Interface for OPC UA [Apache-2.0]
+- [ForestHub.ai](https://foresthub.ai) - Embedded & edge AI agent platform with OPC UA connectivity for industrial machines and controllers. [Commercial]
 
 ### Test Clients
 
