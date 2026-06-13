@@ -274,6 +274,7 @@ _Implementations of Example, Simulation and SampleServer that are running on the
 
 _Implementations of server and client applications and other examples._
 
+- [awtSCADA](https://github.com/larionovavi-stack/awtscada) - Industrial SCADA/HMI with OPC UA client support, runs from a single HTML file in any browser. 65 graphic elements, 53 function blocks, real-time trends. [Demo](https://scada.atwai.ru)
 - [UA-CloudDashboard](https://github.com/barnstee/UA-CloudDashboard) - A cloud-based, dockerized dashboard for displaying OPC UA PubSub telemetry data, read directly from an Azure IoT Hub. [MIT]
 - [UA-CloudLibrary](https://github.com/OPCFoundation/UA-CloudLibrary) - The reference implementation of the UA Cloud Library [MIT]
 - `deprecated`[OPCUA2AAS](https://github.com/umati/OPCUA2AAS) - OPC UA Server that can generate an Industry 4.0 Asset Admin Shell from its info model. [MIT]
