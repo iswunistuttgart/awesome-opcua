@@ -156,6 +156,7 @@ _SDKs to create OPC UA components._
 - [Träger](https://opcua.traeger.de/) - Server/Client [Commercial]
 - [dataFeed OPC UA](https://data-intelligence.softing.com/de/produkte/datafeed-opc-sdks/datafeed-opc-ua-net-standard-sdks/) - Server/Client (Softing) [Commercial]
 - [QuickOPC](https://www.opclabs.com/products/quickopc) - Client (OPC Labs)
+- [PLCcom OPC UA SDK](https://www.indi-an.com/en/plccom/opc-ua-sdk/opcua-overview/) - Server/Client SDK for .NET with optional PubSub add-on, [free trial](https://www.indi-an.com/en/plccom/opc-ua-sdk/opcua-download/), and [GitHub examples](https://github.com/Indi-An/PLCcom-OpcUaSdk-examples-dotnet). [Commercial]
 - [OPC UA .NET SDK](https://www.prosysopc.com/products/opc-ua-dotnet-sdk/) - Server/Client (Prosys) [Commercial]
 - [PicoOPC](https://www.opclabs.com/products/picoopc/for-dotnet) - OPC UA client library [Commercial]
 - [Unified Automation .NET SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html) - Server/Client [Commercial]
@@ -174,6 +175,7 @@ _SDKs to create OPC UA components._
 
 - [Eclipse Milo™](https://github.com/eclipse/milo) - Server/Client - Java open source implementation of OPC UA (IEC 62541). [EPL-2.0]
 - [opcua4j](https://code.google.com/p/opcua4j/) - only Server
+- [PLCcom OPC UA SDK](https://www.indi-an.com/en/plccom/opc-ua-sdk/opcua-overview/) - Server/Client SDK for Java with optional PubSub add-on, [free trial](https://www.indi-an.com/en/plccom/opc-ua-sdk/opcua-download/), and [GitHub examples](https://github.com/Indi-An/PLCcom-OpcUaSdk-examples-java). [Commercial]
 - [Prosys OPC UA](https://www.prosysopc.com/products/opc-ua-java-sdk/) - Server/Client proprietary
 
 #### MATLAB
