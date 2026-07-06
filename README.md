@@ -136,7 +136,7 @@ _SDKs to create OPC UA components._
 - [OPC UA SDK/Toolkit für Embedded-Geräte](https://industrial.softing.com/de/produkte/opc-ua-and-opc-classic-sdks/uatoolkit-embedded.html) - C implementation for Server/Client and Pub/Sub [Commercial]
 - [Prosys OPC UA C/C++ SDKs](https://www.prosysopc.com/products/opc-ua-cplusplus-sdk/) - Server/Client proprietary [Commercial]
 - [Unified Automation C/C++ SDKs](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html) - Server/Client proprietary [Commercial]
-- [NodesetLoader](https://github.com/matkonnerth/nodesetLoader) - Library for importing nodesets in xml schema, add nodeset import to open62541 [MPL-2.0]
+- [NodesetLoader](https://github.com/open62541/open62541-nodeset-loader) - Library for importing nodesets in xml schema, add nodeset import to open62541 [MPL-2.0]
 
 #### C++
 
