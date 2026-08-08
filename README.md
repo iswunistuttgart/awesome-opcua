@@ -228,6 +228,7 @@ _Test Clients to check server implementations manually._
 - [OPC UA Test tool](https://github.com/matkonnerth/opcuatesttool) - Automate OPC UA server performance testing
 - [OPC UA Vulnerability Scanner - OpalOPC](https://opalopc.com/) - A vulnerability scanner for OPC UA applications. [GPL-3.0]
 - [opcilloscope](https://github.com/SquareWaveSystems/opcilloscope) - Lightweight, cross-platform terminal-based OPC UA client with real-time oscilloscope view. Keyboard and mouse friendly. [MIT]
+- [DruOPC Browser](https://github.com/drusteeby/DruOPC) - Web-based test client (Blazor): live monitoring, writes, method calls, Alarms & Conditions with acknowledge, Historical Access, UDT decoding and shareable deep links to nodes. [MIT]
 
 ### Modelling Tools
 
@@ -267,6 +268,7 @@ _Implementations of Example, Simulation and SampleServer that are running on the
 - `opc.tcp://milo.digitalpetri.com:62541/milo` - [Demo Server](https://github.com/eclipse/milo#public-demo-server) based on eclipse/milo
 - `opc.tcp://opcuademo.sterfive.com:26543` - [Demo Server based on NodeOPCUA](https://github.com/node-opcua)
 - [Azure OPC UA Sample](https://github.com/Azure-Samples/iot-edge-opc-plc) - sample server in c#
+- [DruOPC Simulator](https://github.com/drusteeby/DruOPC) - Configurable PLC simulation server in C# with changing values, Alarms & Conditions, methods and user-defined tags from JSON; based on the Azure OPC UA sample. [MIT]
 - [List of publicly availavle OPC UA Servers and Clients](https://github.com/node-opcua/node-opcua/wiki/publicly-available-OPC-UA-Servers-and-Clients)
 - [UaExpert file with OPC UA servers accessible online](https://www.interop4x.de/en/news/uaexpert-project-file)
 
