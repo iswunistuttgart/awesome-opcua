@@ -244,6 +244,7 @@ _Tools to create OPC UA Information Models._
 
 ### Monitoring Tools
 
+- [iaiops](https://github.com/industrial-aiops/industrial-aiops) - Read-first OPC UA client for diagnostics: browse and read nodes, score data freshness and quality, and localise where a data flow stopped. Every call is written to a hash-chained audit log; writes are off by default. Also speaks 13 other field protocols for cross-protocol correlation. [MIT]
 - [prometheus_asyncua_exporter](https://github.com/ainglessi/prometheus_asyncua_exporter) - OPC UA exporter for Prometheus [Apache-2.0]
 
 ### Online Tools
