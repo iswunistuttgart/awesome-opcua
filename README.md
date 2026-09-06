@@ -38,6 +38,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
       - [Test Clients](#test-clients)
       - [Modelling Tools](#modelling-tools)
       - [Monitoring Tools](#monitoring-tools)
+      - [Discovery and Certificate Management](#discovery-and-certificate-management)
       - [Online Tools](#online-tools)
       - [SimulationServer](#server-simulations)
       - [Server and Client examples](#server-and-client-applications)
@@ -245,6 +246,12 @@ _Tools to create OPC UA Information Models._
 ### Monitoring Tools
 
 - [prometheus_asyncua_exporter](https://github.com/ainglessi/prometheus_asyncua_exporter) - OPC UA exporter for Prometheus [Apache-2.0]
+
+### Discovery and Certificate Management
+
+_Global Discovery Servers (OPC UA Part 12) and tools to manage X.509 certificates and trust lists across a fleet of OPC UA applications._
+
+- [OPC UA GDS by Sterfive](https://www.sterfive.com/en/product/opcua-gds) - Conformant OPC UA Part 12 Global Discovery Server that automates the X.509 certificate lifecycle (issuance, renewal, trust list and CRL distribution, revocation) across a fleet in both PULL and PUSH modes. Pluggable CA backends (built-in, step-ca, HashiCorp Vault, Microsoft ADCS, EJBCA), Docker-native, admin web UI with audit log; supports IEC 62443 / NIS2 compliance efforts. Built by the node-opcua maintainers. [Commercial] (free demo mode)
 
 ### Online Tools
 
