@@ -236,7 +236,7 @@ _Tools to create OPC UA Information Models._
 - [UAModeler](https://www.unified-automation.com/products/development-tools/uamodeler.html) - Modeling Tool by Unified Automation. [Commercial]
 - [OPC UA Modeler](https://www.prosysopc.com/products/opc-ua-modeler/) - Modeling Tool by Prosys [Commercial]
 - [SiOME](https://support.industry.siemens.com/cs/document/109755133/siemens-opc-ua-modeling-editor-%28siome%29-for-implementing-opc-ua-companion-specifications?dti=0&lc=en-WW) - Modeling Tool by Siemens [Commercial]
-- [Sterfive's LowCode Modeler](https://www.sterfive.com/product/modeler/) - Low code tool to generate compliant OPCUA Model with ease, provide a single source of truth for your model, the doc and the nodeset2.xml) [Commercial] [Free evaluation]
+- [OPC UA Modeler by Sterfive](https://www.sterfive.com/en/product/opcua-modeler) - Code-first modelling in VS Code: describe ObjectTypes, Variables, Methods and References in a YAML DSL with live validation, then generate NodeSet2.xml, diagrams and documentation from a single, version-controlled source of truth. Supports companion specifications (DI, Machinery, PADIM, PackML, Robotics, Machine Tool). Built by the node-opcua maintainers. [Commercial] (free evaluation)
 - [UA-ModelCompiler](https://github.com/OPCFoundation/UA-ModelCompiler) - Tool to convert OPC UA Information models in Model.xml format to NodeSet2.xml Format. [MIT]
 - [UML2OPCUA](https://github.com/model-UA/papyrus-opcua-plugin) - Papyrus plugin to model OPC UA Information models with Papyrus
 - `deprecated` [FreeOpcUa/opcua-modeler](https://github.com/FreeOpcUa/opcua-modeler) - Free OPC UA Modeler is a tool for designing OPC UA address spaces [GPL-3.0]
@@ -253,6 +253,7 @@ _Tools available online to help with OPC UA components or Information Models._
 - [OPC UA NodeSet Validator](https://apps.opcfoundation.org/NodeSetValidator/) - Check NodeSet XML Files against Word Documents following the OPC Foundation Specification Template.
 - [OPC UA CloudViewer](https://cloudviewer.umati.app/) - Make the XML NodeSets browsable, by DigitalTwinConsortium ([Source](https://github.com/digitaltwinconsortium/UA-CloudViewer)).
 - [OPC UA for Cloud Library](https://uacloudlibrary.opcfoundation.org/) - OPC UA Information Model database with a REST and GraphQL interface ([Source](https://github.com/OPCFoundation/UA-CloudLibrary))
+- [OPC UA Modeler Online](https://opcua-modeler.sterfive.io/) - Browser-based sandbox for the Sterfive OPC UA Modeler: write an information model in YAML with LSP assistance and semantic validation, see hierarchy and instance diagrams update live, and export NodeSet2.xml, TypeScript or Markdown. No installation required (free).
 
 ## Server Simulations
 
