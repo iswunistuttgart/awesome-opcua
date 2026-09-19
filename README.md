@@ -169,6 +169,7 @@ _SDKs to create OPC UA components._
 - [HBM/opcua](https://github.com/HBM/opcua) - only Client [MIT]
 - [@plus4nodered/opcua](https://plus4nodered.com) - Professional OPC UA packages as a PLUS for Node-RED and FlowFuse inspired by our deprecated node-red-contrib-iiot-opcua package [P4NR B2B Community](https://p4nr.com/)
 - [@p4nr/opcua-webapp-framework](https://plus4nodered.com) - Professional OPC UA Framework based on node-opcua for Node.js Web-Apps to make it easier to use OPC UA in Web-Apps [P4NR B2B Community](https://p4nr.com/)
+- [node-i3x](https://github.com/node-opcua/node-i3x) - Exposes any OPC UA address space as a CESMII i3X (Industrial Information Interoperability eXchange) REST/JSON API: stable element IDs, long-poll and SSE subscriptions, historical data access. Passes the official i3X 1.0 conformance suite. Built on node-opcua. [AGPL-3.0 / Commercial]
 
 #### Java
 
@@ -253,6 +254,7 @@ _Tools available online to help with OPC UA components or Information Models._
 - [OPC UA NodeSet Validator](https://apps.opcfoundation.org/NodeSetValidator/) - Check NodeSet XML Files against Word Documents following the OPC Foundation Specification Template.
 - [OPC UA CloudViewer](https://cloudviewer.umati.app/) - Make the XML NodeSets browsable, by DigitalTwinConsortium ([Source](https://github.com/digitaltwinconsortium/UA-CloudViewer)).
 - [OPC UA for Cloud Library](https://uacloudlibrary.opcfoundation.org/) - OPC UA Information Model database with a REST and GraphQL interface ([Source](https://github.com/OPCFoundation/UA-CloudLibrary))
+- [i3X Portal by Sterfive](https://i3x-portal.sterfive.io/) - Point the portal at an OPC UA endpoint and get an i3X-compliant REST API for it instantly, with no installation, powered by [node-i3x](https://github.com/node-opcua/node-i3x) (free for evaluation).
 
 ## Server Simulations
 
