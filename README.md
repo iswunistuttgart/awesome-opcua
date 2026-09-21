@@ -160,6 +160,7 @@ _SDKs to create OPC UA components._
 - [PicoOPC](https://www.opclabs.com/products/picoopc/for-dotnet) - OPC UA client library [Commercial]
 - [Unified Automation .NET SDK](https://www.unified-automation.com/products/sdk-overview/choose-sdk.html) - Server/Client [Commercial]
 - [Traeger .NET SDK](https://www.traeger.de/en/products/development/opcua/opcua-sdk) - Server/Client SDK and Tools like Codabix [Commercial]
+- [PLCcom OPC UA SDK](https://www.indi-an.com/en/plccom/opc-ua-sdk/opcua-overview/) - Server/Client and PubSub SDK for C# and VB.NET, free evaluation mode, examples on [GitHub](https://github.com/Indi-An/PLCcom-OpcUaSdk-examples-dotnet) (Indi.An) [Commercial]
 
 #### JavaScript / TypeScript
 
@@ -175,6 +176,7 @@ _SDKs to create OPC UA components._
 - [Eclipse Milo™](https://github.com/eclipse/milo) - Server/Client - Java open source implementation of OPC UA (IEC 62541). [EPL-2.0]
 - [opcua4j](https://code.google.com/p/opcua4j/) - only Server
 - [Prosys OPC UA](https://www.prosysopc.com/products/opc-ua-java-sdk/) - Server/Client proprietary
+- [PLCcom OPC UA SDK](https://www.indi-an.com/en/plccom/opc-ua-sdk/opcua-overview/) - Server/Client and PubSub SDK, free evaluation mode, examples on [GitHub](https://github.com/Indi-An/PLCcom-OpcUaSdk-examples-java) (Indi.An) [Commercial]
 
 #### MATLAB
 
