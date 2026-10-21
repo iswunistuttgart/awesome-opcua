@@ -228,6 +228,7 @@ _Test Clients to check server implementations manually._
 - [OPC UA Test tool](https://github.com/matkonnerth/opcuatesttool) - Automate OPC UA server performance testing
 - [OPC UA Vulnerability Scanner - OpalOPC](https://opalopc.com/) - A vulnerability scanner for OPC UA applications. [GPL-3.0]
 - [opcilloscope](https://github.com/SquareWaveSystems/opcilloscope) - Lightweight, cross-platform terminal-based OPC UA client with real-time oscilloscope view. Keyboard and mouse friendly. [MIT]
+- [OpenUaExplorer](https://github.com/sanny32/OpenUaExplorer) - Open source graphical OPC UA client for Windows, macOS and Linux, with address space browsing, reading and writing values, method calls, data and event subscriptions, historical access and live trend graphs. [MIT]
 
 ### Modelling Tools
 
