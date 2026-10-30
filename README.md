@@ -228,6 +228,7 @@ _Test Clients to check server implementations manually._
 - [OPC UA Test tool](https://github.com/matkonnerth/opcuatesttool) - Automate OPC UA server performance testing
 - [OPC UA Vulnerability Scanner - OpalOPC](https://opalopc.com/) - A vulnerability scanner for OPC UA applications. [GPL-3.0]
 - [opcilloscope](https://github.com/SquareWaveSystems/opcilloscope) - Lightweight, cross-platform terminal-based OPC UA client with real-time oscilloscope view. Keyboard and mouse friendly. [MIT]
+- [LibreDB Studio](https://github.com/libredb/libredb-studio) - Open source web database IDE with a read-only OPC UA connection: browse a server's address space, read node attributes and values, and read historical data. [MIT]
 
 ### Modelling Tools
 
