@@ -306,6 +306,7 @@ coming soon
 
 - [open62541's List of Open Source OPC UA Implementations](https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations) - List of open source OPC UA implementations.
 - [Agile-IoT/awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
+- [Awesome Industrial Automation](https://github.com/awesome-industrial/awesome-industrial-automation) - Curated list of open source software and resources for industrial automation, with sections on OPC UA stacks, tools and information models.
 
 ## Tutorials
 
