@@ -254,6 +254,14 @@ _Tools available online to help with OPC UA components or Information Models._
 - [OPC UA CloudViewer](https://cloudviewer.umati.app/) - Make the XML NodeSets browsable, by DigitalTwinConsortium ([Source](https://github.com/digitaltwinconsortium/UA-CloudViewer)).
 - [OPC UA for Cloud Library](https://uacloudlibrary.opcfoundation.org/) - OPC UA Information Model database with a REST and GraphQL interface ([Source](https://github.com/OPCFoundation/UA-CloudLibrary))
 
+
+### Certificate and Trust Management
+
+_Tools for managing OPC UA application certificates, trust relationships, and certificate lifecycles._
+
+* [Trustpoint](https://github.com/Trustpoint-Project/trustpoint) - Open-source PKI and machine identity management platform for industrial environments, supporting OPC UA GDS Push, automated certificate enrollment and renewal, trust management, and integration with existing PKI systems. [MIT]
+
+
 ## Server Simulations
 
 _Implementations of Example, Simulation and SampleServer that are running on the internet or can be run local._
