@@ -291,6 +291,7 @@ _Implementations of server and client applications and other examples._
 - [opcua-skills/plug-and-produce](https://github.com/opcua-skills/plug-and-produce) - Plug-and-Produce System Architecture for Robotic Applications using OPC UA [proprietary]
 - [convertersystems/opc-ua-samples](https://github.com/convertersystems/opc-ua-samples) - Sample HMIs using OPC Unified Architecture (OPC UA) and Visual Studio. [MIT]
 - [opcua-machinery-client](https://github.com/AndreasHeine/opcua-machinery-client) - Client example showcaseing the OPC UA for Machinery from a data consumer perspective. [MIT]
+- [Voltrus SCADA](https://github.com/VoltrusID/voltrus-scada) - Self-hosted SCADA in a single Rust binary: OPC UA, Modbus, S7, EtherNet/IP, DNP3 and BACnet/IP drivers, historian, dashboards and alarms. [AGPL-3.0]
 
 ## Gateways (OPC Classic)
 
